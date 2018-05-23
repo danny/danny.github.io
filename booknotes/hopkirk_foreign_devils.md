@@ -3,7 +3,7 @@
 
 ![Image](images/foreign_devils_on_the_silk_road.jpg)
 
-Foreign Devils on The Silk Road, The Search for the Lost Treasures of Central Asia I'm a huge fan of Peter Hopkirk, he's one of my favorite authors. Unfortunately I read the vast majority of his books, all but the Quest for Kim, before I began taking notes in them. I find his style delightful and highly enjoyable, he really know's how to tell tale and I can't recommend his books enough. If I was a new reader to this area, I'd start with The Great Game. Below I've selected a few passages that were especially interesting, but really one needs to read everything Peter Hopkirk has written :)
+I'm a huge fan of Peter Hopkirk, he's one of my favorite authors. Unfortunately I read the vast majority of his books, all but the Quest for Kim, before I began taking notes in them. I find his style delightful and highly enjoyable, he really know's how to tell tale and I can't recommend his books enough. If I was a new reader to this area, I'd start with The Great Game. Below I've selected a few passages that were especially interesting, but really one needs to read everything Peter Hopkirk has written :)
 
 **Page 57/58/59/60**
 
