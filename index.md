@@ -4,12 +4,15 @@ You can use the [editor on GitHub](https://github.com/danny/danny.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[foriegn devils](booknotes/hopkirk_foreign_devils.html)
+[foriegn devils](booknotes/hopkirk_foreign_devils)
 
 {% for page in site.pages %}
 
-  {{ page.tile }}
-
+  {{ page.title }}
+  arf
+  
+  boo{{ page.permalink }}
+  
 {% endfor %}
 
 
