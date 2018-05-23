@@ -11,5 +11,5 @@ This page contains a list of notes/excerpts from various books that I found inte
 
 ## Notes maintained on github
 - [Git Repository: https://github.com/danny/danny.github.io](https://github.com/danny/danny.github.io)
-- [web editor](https://github.com/danny/danny.github.io/edit/master/index.md)
+- [Web Editor](https://github.com/danny/danny.github.io/edit/master/index.md)
 - Migrated from blog in 2018
