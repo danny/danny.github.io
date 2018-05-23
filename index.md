@@ -8,15 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 {% for page in site.pages %}
 
-  {{ page.title }}
-  arf
-  
-  boo{{ page.permalink }}
+  {% if page.dir == 'booknotes' %}
+
+    - [{{ page.title }}]({{ page.permalink }})
+ {% endif %}
   
 {% endfor %}
 
 
-### Markdown
+### Markdown3
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
