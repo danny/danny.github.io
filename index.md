@@ -16,15 +16,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   boo 
   [{{ page.title }}]({{ page.permalink }})
 
-  {% if page.dir == 'booknotes' %}
-
+  {% if page.dir == '/booknotes/' %}
+    in here
     [{{ page.title }}]({{ page.permalink }})
   {% endif %}
   
 {% endfor %}
 
 
-### Markdown4
+### Markdown5
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
