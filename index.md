@@ -6,29 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [foriegn devils](booknotes/hopkirk_foreign_devils)
 
+## Book Notes
 {% for page in site.pages %}
-
-
-  {% if page.dir == '/booknotes/' %}
-  in here
-  [{{ page.title }}]({{ page.permalink }})
-d {{page.url}}
- 
-  {{ page.dir }}
-
-  arf
-  {{ page.title }}
-  {{ page.permalink }}
-  boo 
-  [{{ page.title }}]({{ page.permalink }})
-  
-  
-  {% endif %}
-  
+ {% if page.dir == '/booknotes/' %}
+  - [{{ page.title }}]({{ page.url }})
+ {% endif %}
 {% endfor %}
 
 
-### Markdown6
+### Markdown7
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
