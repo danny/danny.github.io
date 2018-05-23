@@ -7,6 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [foriegn devils](booknotes/hopkirk_foreign_devils)
 
 {% for page in site.pages %}
+  duf
+  {{ page.dir }}
+
   arf
   {{ page.title }}
   {{ page.permalink }}
