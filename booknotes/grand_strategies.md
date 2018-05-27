@@ -607,13 +607,9 @@ The international world of states and their modern system is a literary realm; i
 ***Page 297/298***
 
 >Sir  Lewis Namier, the relentlessly fact-based diplomatic historian, writing on the eve of the Second World War, saw something not dissimilar in Talleyrand, who saw at a critical moment in history "one of those rare occasions when an idea can shape the fate of nations," and so became "the apostle of <em>legitimite</em>." Legitimacy in governance remains a concept too esoteric for mere politicians to grasp.  Literature and the book may be required. 
-
-....
-
-As described by kissinger: 
-
-
-
+>
+>....
+>
+>As described by Kissinger: 
+>
 >I put a proposition to you all: we have entered a time of total change in human consciousness of how people look at the world.  Reading books requires you to form concepts, to train your mind to relationships.  You have to come to grips with who you are.  A leader needs these qualities.  But now we learn from fragments of facts.  A book is a large intellectual construction; you can't hold it all in  mind easily or at once.  you have to struggle mentally to internalize it.  No there is no need to internalize because each fact can be instantly called up on the computer.  There is no context, no motive.  information is not knowledge. People are not reads but researches, they float on the surface.  Churchill understood context.  This new thinking erases context.  It disaggregates everything.  All this makes strategic thinking about world order nearly impossible to achieve.
-
-]]&gt;</content:encoded>
