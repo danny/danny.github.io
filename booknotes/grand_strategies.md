@@ -60,7 +60,7 @@ Sinon, the gifted liar, says it was religious.  Because Ulysses had stolen Miner
 >
 >All points are covered: individual, societal, divine; historical, military, psychological, emotional, and intellectual. It is carefully phased to unfold over time.  The enemy's suspicions and objections have been foreseen and preemptively neutralized.
 
-**** Page 41/42 ****
+*** Page 41/42 ***
 
 >Aeneas is not an Iliadic warrior arousing himself to fury in battle to gain glory.  He is not a Socratic citizen of the Athenian polis debating questions of justice and the good. Aeneas is dedicated to a mission for civilization and world order, and must sacrifice his personal interests  - most dramatically his affair with Dido - for that grater good.  The price civilization exacts is steep.
 
