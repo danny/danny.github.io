@@ -3,7 +3,6 @@
 
 ![Image](images/grand_strategies.jpg)
 
-
 ***Page 4/5***
 
 >... the modern international state system, launched in 1648 with the Treaty of Westphalia, which ended the religion-inflamed Thirty Years' War and which by the mid-twentieth century had become the recognized system through which states on every continent had agreed to conduct their official interactions.
@@ -43,22 +42,22 @@ Sinon, the gifted liar, says it was religious.  Because Ulysses had stolen Miner
 >The greek grand strategy at the outset was not impressive. Marriage and <em>xenia</em> had been violated when Paris took Helen away. But to launch an expeditionary force to lay siege to a far-off citadel was far from promising.  You would be away from your base.  Your long logistic line could not be maintained and you could not easily live off the invaded land for long.  As Clausewitz would later teach, the defensive position would have the stronger hand.  What were the Greek assets?  Achilles the best fighter and Ulysses/Odysseus the best schemer.  But Achilles was always a problem, and after ten years of war he was killed.  The at left three options: 1) Continue the siege with no hope of success; 2) Quit the war and go home; 3) Try something else: a stratagem of deception. Given the wily Ulysses as an asset, option 3 was the clear choice.
 >
 >Surely the Trojans would anticipate something like this; they new about Ulysses and his reputation for sratagems.  So a plausible - indeed ingenious - context had to be concocted in order to throw the Trojans off the trail:
-><ol>
-	<li>A defector/traitor with an explanation for his turncoat decision: he had lost favor with the inner circle of leadership. This would be believable because the Greeks, a nation lacking unity, were always squabbling and defecting.</li>
-	<li>A second layer of narrative that certainly was true: the Greeks were weary after ten years of war and wanted to go home.</li>
-	<li>A third level, perhaps most compelling of all to the culture of the time and place. Everyone knew that the Greeks at the start of the war had to sacrifice one of their own, Iphigenia, in order to get favorable winds to carry their fleet to Troy.  So the false story that the Delphic oracle required them to carry out another human sacrifice in order to get favorable winds to carry their ships home from Troy instantly made sense to the Trojans.  It made the war into a "ring composition." (In fact, the whole tale Aeneas tells Dido is a contest, ring-composition-style, of sacrifices, six or seven in sequence, like a game of musical chairs, to see which side's sacrifice wins at the end.)</li>
-	<li>Fourth, the Greeks would sacrifice the defector because, after all, he already was out of favor.  This gave added credibility to his story.</li>
-	<li>To all this was added another dimension, also based on a known fact; that Ulysses had made off with the palladium of Minerva (the shrine-image in her temple). So it seemed to make some sense that, to ensure that Minerva would not in anger thwart the Greek plan of withdrawal, they had constructed a giant wooded horse and dedicated it to her.  And to make sure that the Trojans would not take the horse for their own and thereby shift Minerva's favor to themselves, the Greeks had built it so large that it could not be fit through the gates of Troy. (Here is something like Br'er Rabbit's briar patch ploy: fervently assert what you desperately do not want to happen in order to make sure it does happen.)</li>
-</ol>
+>
+>1. A defector/traitor with an explanation for his turncoat decision: he had lost favor with the inner circle of leadership. This would be believable because the Greeks, a nation lacking unity, were always squabbling and defecting.
+>2. A second layer of narrative that certainly was true: the Greeks were weary after ten years of war and wanted to go home.
+>3. A third level, perhaps most compelling of all to the culture of the time and place. Everyone knew that the Greeks at the start of the war had to sacrifice one of their own, Iphigenia, in order to get favorable winds to carry their fleet to Troy.  So the false story that the Delphic oracle required them to carry out another human sacrifice in order to get favorable winds to carry their ships home from Troy instantly made sense to the Trojans.  It made the war into a "ring composition." (In fact, the whole tale Aeneas tells Dido is a contest, ring-composition-style, of sacrifices, six or seven in sequence, like a game of musical chairs, to see which side's sacrifice wins at the end.)
+>4. Fourth, the Greeks would sacrifice the defector because, after all, he already was out of favor.  This gave added credibility to his story.
+>5. To all this was added another dimension, also based on a known fact; that Ulysses had made off with the palladium of Minerva (the shrine-image in her temple). So it seemed to make some sense that, to ensure that Minerva would not in anger thwart the Greek plan of withdrawal, they had constructed a giant wooded horse and dedicated it to her.  And to make sure that the Trojans would not take the horse for their own and thereby shift Minerva's favor to themselves, the Greeks had built it so large that it could not be fit through the gates of Troy. (Here is something like Br'er Rabbit's briar patch ploy: fervently assert what you desperately do not want to happen in order to make sure it does happen.)
+>
 >Here then is the new strategy designed by the Greeks:
-
+>
 > * it replaces a problematic and unsuccessful earlier strategy;
 > * it takes full advantage of the Greeks' strongest remaining asset;
 > * it provides a comprehensive story line which their opponents would be eager to adopt;
 > * it is anchored in previously known facts about Greeks;
 > * it is in accord with previous assumptions about Greeks;
 > * and it is shored up by appropriately related religious practices.
-
+>
 >All points are covered: individual, societal, divine; historical, military, psychological, emotional, and intellectual. It is carefully phased to unfold over time.  The enemy's suspicions and objections have been foreseen and preemptively neutralized.
 
 **** Page 41/42 ****
@@ -149,7 +148,6 @@ Sinon, the gifted liar, says it was religious.  Because Ulysses had stolen Miner
 >Peace hath her victories
 >No less renown'd than war.
 
-
 **** Page 98/99 ****
 
 >The poem builds upon the Westphalian conclusion: keep religion out of affairs of state. In <em>Paradise Lost</em>, Milton may even be saying that God, once his plan is achieved, will abdicate as Cromwell gives up the kingship, as there will be no more need for hierarchical authority.
@@ -162,7 +160,6 @@ Sinon, the gifted liar, says it was religious.  Because Ulysses had stolen Miner
 >...
 >
 >The foundations of two opposing grand strategies now seem to be in place: God's expansiveness, aimed at self-reflection, assessment, and rectification; Satan's antagonistic defiance and self-regard.  One aims at tempering power, the other at regaining, accumulating, and aggrandizing power.
-
 
 ***Page 109/110***
 
@@ -183,7 +180,6 @@ Sinon, the gifted liar, says it was religious.  Because Ulysses had stolen Miner
 ***Page 116***
 
 >Similarly, most readers across the centuries have taken Plato's <em>Republic</em> seriously, rather than ionically, as it was intended.  Socrates' arguments for the <em>Kallipolis</em> are delivered with tongue firmly in cheek, as one set of arguments after another leads his circle to fanatical results, such as the abolition of the family, women being held in common by men, and the eradication - Khmer Rouge style - of everyone over the age of ten.  Swift's Houyhnhnms-Land is Plato's <em>Republic</em>, which Gulliver misreads as the typical modern misreads Plato.  Gulliver represents the modern temptation and gives in to it, and what is truly human is overlooked, neglected, or rejected.  When the ideal sate through reason alone provides all the answers, nothing is left for the soul to do.
-
 
 ***Page 118/119***
 
@@ -389,45 +385,40 @@ Sinon, the gifted liar, says it was religious.  Because Ulysses had stolen Miner
 
 ***Page 223/226/227***
 
+>T.S. Eliot's <em>The Waste Land</em>, from its publication in 1922 to the present, has been the most persistent point of reference in modern literature.
 >
-T.S. Eliot's <em>The Waste Land</em>, from its publication in 1922 to the present, has been the most persistent point of reference in modern literature.
-
-...
-
-A second marker of modernism is a fascination for the primitive, the primeval as a source of energy and authenticity. Eliot probes and pokes into various ancient, hieratic forms; in a search for this reference point he touches the Hebrew Bible, Anglo-Saxxon Ballads, tarot cards, Arthurian legends, back and farther back until the poet reaches the sources of the Indo-European linguistic family, Sanskrit scriptures from a time before recorded time, the famous D<em>attta, Dayadvam, Damyatta, Shantih, Shantih, Shantih</em>. Here Elliot draws together the propensity in modern Western civilization, from Emerson to Nietzsche to Heidegger to the counterculture of the 1960s and after, to believe that civilization is fundamentally flawed, and that authenticity can be found only by reaching back before civilization (to, for example, Nietzsche's pre-Socratic thinkers.)
-
-...
-
-Admiration for the primitive and for authenticity came in the post-World War I recognition of the rights of self-determination of nations that had not before achieved statehood. "Nationalism" was seen as a force that represented land, blood, culture, language, and religion and which, bundled together in a people, must not, and could not, long be denied.
-
+>...
+>
+>A second marker of modernism is a fascination for the primitive, the primeval as a source of energy and authenticity. Eliot probes and pokes into various ancient, hieratic forms; in a search for this reference point he touches the Hebrew Bible, Anglo-Saxxon Ballads, tarot cards, Arthurian legends, back and farther back until the poet reaches the sources of the Indo-European linguistic family, Sanskrit scriptures from a time before recorded time, the famous D<em>attta, Dayadvam, Damyatta, Shantih, Shantih, Shantih</em>. Here Elliot draws together the propensity in modern Western civilization, from Emerson to Nietzsche to Heidegger to the counterculture of the 1960s and after, to believe that civilization is fundamentally flawed, and that authenticity can be found only by reaching back before civilization (to, for example, Nietzsche's pre-Socratic thinkers.)
+>
+>...
+>
+>Admiration for the primitive and for authenticity came in the post-World War I recognition of the rights of self-determination of nations that had not before achieved statehood. "Nationalism" was seen as a force that represented land, blood, culture, language, and religion and which, bundled together in a people, must not, and could not, long be denied.
 
 ***Page 228/229***
 
 > [K- Kafka's The Castle] Like Thomas Mann's Hans Castorp in the snow, K has come, Virgil-like, the the netherworld, where he will learn his purpose in life.  But this time, for the first time inliterature, the hero cannot gain access o the place and so never understands his mission.  The lord of the castle, the suggestively named Count Westwest, is unreachable.
-
-...
-
-K and Don Quixote both carry out epic attempts to make the disorder of modern reality conform to an ideal order of the good.  Don Quixote goes forth in the service of an epic order that no longer corresponds to reality, an order which has been replaced by forces whose underlying design cannot easily be grasped. The Don defends his epic certainties even as they are scorned or erased; he seeks to restore normative order to a crazy world and is himself pronounced crazy. K is a twentieth-century Don Quixote.  Like the Don, K is trying to reaffirm a kind of universal library of virtuous works.  But K's task is more difficult "when literary models are scattered, nuanced, confused, and attenuated, when new values are not so much opposed to the old as they are scrambled, lost in infinity, or , on the contrary, become highly specialized ... come to mirror each other's confusion and fragility."  The Don and K share a common purpose: to apply the fictional truth of books ot an uncomprehending and brutal reality.  Both fail, but each lives on in the imaginative awareness of the reader-citizens that a noble vision of virtue is needed.
-
-
+>
+>...
+>
+>K and Don Quixote both carry out epic attempts to make the disorder of modern reality conform to an ideal order of the good.  Don Quixote goes forth in the service of an epic order that no longer corresponds to reality, an order which has been replaced by forces whose underlying design cannot easily be grasped. The Don defends his epic certainties even as they are scorned or erased; he seeks to restore normative order to a crazy world and is himself pronounced crazy. K is a twentieth-century Don Quixote.  Like the Don, K is trying to reaffirm a kind of universal library of virtuous works.  But K's task is more difficult "when literary models are scattered, nuanced, confused, and attenuated, when new values are not so much opposed to the old as they are scrambled, lost in infinity, or , on the contrary, become highly specialized ... come to mirror each other's confusion and fragility."  The Don and K share a common purpose: to apply the fictional truth of books ot an uncomprehending and brutal reality.  Both fail, but each lives on in the imaginative awareness of the reader-citizens that a noble vision of virtue is needed.
 
 ***Page 229/230***
 
 >If Dante's "Ulysses" Canto (<em>Inferno</em> 26) begins a logic chain about the emergence of the idea of the New World in world order, Tennyson's 1833 poem "Ulysses" may mark the start of the old European world's recessional.  The poem seems to be a hearty tribute of praise for bold forward-leaning adventure
-
-
+>
+>
 >Come, my friends.
-'Tis not too late to seek a newer world.
-Push off, and sitting well in order smite
-The sounding Furrows: for my purpose holds
-To sail beyond the sunset, and the baths
-Of all the western stars, until I die. . . .
-It may be we shall touch the Happy Isles,
-And see the great Achilles, whom we knew . . .
-To strive, to see, to find, and not to yield. 
-
-Tennyson said that "Ulysses was written soon after Arthur Hallam's death, and gave my feeling about the need of going forward, and braving the struggle of life perhaps more simply than anything in <em>In Memoriam</em>.But Tennyson completed the poem before his friend died, and read at a different angle, it portrays a querulous and heedless adventurer, not someone the poet would take as a model.  Ulysses'ways were not congenial to Tennyson's; the hero overreached and perished for his presumption.  So much for the vaunted "New World."
- 
+>'Tis not too late to seek a newer world.
+>Push off, and sitting well in order smite
+>The sounding Furrows: for my purpose holds
+>To sail beyond the sunset, and the baths
+>Of all the western stars, until I die. . . .
+>It may be we shall touch the Happy Isles,
+>And see the great Achilles, whom we knew . . .
+>To strive, to see, to find, and not to yield. 
+>
+>Tennyson said that "Ulysses was written soon after Arthur Hallam's death, and gave my feeling about the need of going forward, and braving the struggle of life perhaps more simply than anything in <em>In Memoriam</em>.But Tennyson completed the poem before his friend died, and read at a different angle, it portrays a querulous and heedless adventurer, not someone the poet would take as a model.  Ulysses'ways were not congenial to Tennyson's; the hero overreached and perished for his presumption.  So much for the vaunted "New World."
 
 ***Page 231***
 
@@ -436,101 +427,93 @@ Tennyson said that "Ulysses was written soon after Arthur Hallam's death, and ga
 ***Page 235/236/237/238/239/240***
 
 >The conflict would focus on trade.  for China, trade was tribute, heavily regulated and assumed to benefit China one-sidedly. So long as the West embraced the doctrine of mercantilism, the two civilizations' economic views had a certain similarity.  But when Adam Smith's ideas about free trade grew influential, confrontations arose.
-
-Britain's East India Company established a post at Canton as early as 1699.  The English bought tea and paid for it in silver.  China did not buy English goods, so the Chinese saw the inflow under this "Canton System" as entirely right and proper.
-
-Aggressive free traders began to move in. The East India Company, which controlled opium, sold the drug to private "country traders" who resold it along the China coast. Demand soared and buyers paid in silver.  Quickly the balance of trade was reversed. The "tribute-trade" mentality of China was frontally challenged.  And the opium trade proved unregulatable by the Imperial Court.  Soon the British pressed for other ports on the China coast.
-
-An "Opium War" broke out in 1839.  Alarmed at the draining of China's silver coffers, the court ordered Commissioner Lin Tse-hsu to stop the opium traffic.  The resulting clashes began what has been call the "Twenty-one Years' War," one of the pivotal conflicts in world history, the conflict of two fundamentally opposed concepts of how the world should be ordered.
-
-....
-
-The meaning was unmistakable: force China into the international state system.  The result was a series of what would become known as the "unequal treaties," beginning in 1842 with the Treaty of Nanking, in which China ceded fine "treaty ports," including Shanghai, to Britain under terms which granted "extraterritoriality," meaning that British law, not Chinese, would apply there.  Hong Kong was handed over to Britain.
-
-...
-
-In 1856 a perceived Chinese insult to the British Union Jack sparked the <em>Arrow</em> War.  Britain used the crisis to send Lord Elgin (he of the marbles) to Peking to insist on a treaty that would permit Western diplomats to reside there permanently.  The Imperial Court resisted: the treaty violated the Chinese view of world order - the tributary system - by putting China and the state sending such diplomats on a basis of state-to-state equality. To overcome this opposition, Lord Elgin returned in 1860 with a fighting force, causing the emperor to flee the capital.  The invading troops burned the Imperial Summer Palace.
-
-China's foreign relations were thereby entirely reordered.  The Sinocentric worldview and the tribute system were destroyed.  In 1861 China established a new institution, the Tsungli Yamen or "Office for General Management of Affairs with the Various Nations," a kind of incipient ministry of foreign affairs.  Within a few years, China sent its first diplomatic missions overseas, and by 1879 it had established some permanent embassies abroad.  
-
-China was hauled into the international state system on terms that made an appearance of equal treatment but which in fact left a culturally devastated China in a condition of inferiority and disarray.  Although the British had dragged China into the system, China was not of it.  The Boxer Rebellion of 1900 was anti-Christian and antiforeign.  The Imperial Court, expecting the rebels to succeed, supported their assault on the diplomatic quatter of Peking.  The dynasty itself declared war on the foreign missions, a rejection of the international system it had been forced to accept through unequal treaties..  This brought the Boxer Relief Expedition to Peking in the international system's first act of "collective security, " with British, American, French, German, Belgian, Austro-Hungarian, Italian, Indian, and Japanese troops all involved.
-
-...
-
-Lao Ts'an and his friends take a nearby fishing boat to try to help the giant ship.  The reason the ship is in trouble, Lao Ts'an says, is that it was not prepared for the storm and doesn't know where it is going.  So the three will take modern navigational equipment to the captain (in other words, the answer to China's national distress lies in the adoption of modern Western technology). 
-
-When they reach the ship, one passenger is calling upon the others to take action.  he collects money from them and tells them they must organize themselves.  The outcome is that he gets the money while they shed their blood (this, the allegory tells us, is the way of revolution).  When Lao Ts'an's boat comes alongside the great ship to deliver the navigational equipment, the would-be rescuers are denounced by the passengers because the equipment is foreign.  The passengers begin to tear their own ship apart in order to throw planks at Lao Ts'an's small boat to sink it.
-
-...
-
-The immense shock of this culture in its attempt to comprehend and survive the coming of the international state system is revealed here in all aspects.
-
-...
-
-The revolution warned against in <em>The Travels of Lao Ts'an</em> would come, with devastating consequence.  There began decades of cultural disintegration and political upheaval.  
-The Revolution of 1911 deposed the emperor and established the Republic of China.  Officially, this seemed to install China as a member of the international system.  But China was a state in name only.  Traditional China was collapsing; modern China was not functional.  Many leading intellectuals, as though emulating Lao Ts'an, withdrew from politics, among them the brilliant scholar-statesman Hu Shih, who had written an introduction to the novel's first publication.
-
+>
+>Britain's East India Company established a post at Canton as early as 1699.  The English bought tea and paid for it in silver.  China did not buy English goods, so the Chinese saw the inflow under this "Canton System" as entirely right and proper.
+>
+>Aggressive free traders began to move in. The East India Company, which controlled opium, sold the drug to private "country traders" who resold it along the China coast. Demand soared and buyers paid in silver.  Quickly the balance of trade was reversed. The "tribute-trade" mentality of China was frontally challenged.  And the opium trade proved unregulatable by the Imperial Court.  Soon the British pressed for other ports on the China coast.
+>
+>An "Opium War" broke out in 1839.  Alarmed at the draining of China's silver coffers, the court ordered Commissioner Lin Tse-hsu to stop the opium traffic.  The resulting clashes began what has been call the "Twenty-one Years' War," one of the pivotal conflicts in world history, the conflict of two fundamentally opposed concepts of how the world should be ordered.
+>
+>...
+>
+>The meaning was unmistakable: force China into the international state system.  The result was a series of what would become known as the "unequal treaties," beginning in 1842 with the Treaty of Nanking, in which China ceded fine "treaty ports," including Shanghai, to Britain under terms which granted "extraterritoriality," meaning that British law, not Chinese, would apply there.  Hong Kong was handed over to Britain.
+>
+>...
+>
+>In 1856 a perceived Chinese insult to the British Union Jack sparked the <em>Arrow</em> War.  Britain used the crisis to send Lord Elgin (he of the marbles) to Peking to insist on a treaty that would permit Western diplomats to reside there permanently.  The Imperial Court resisted: the treaty violated the Chinese view of world order - the tributary system - by putting China and the state sending such diplomats on a basis of state-to-state equality. To overcome this opposition, Lord Elgin returned in 1860 with a fighting force, causing the emperor to flee the capital.  The invading troops burned the Imperial Summer Palace.
+>
+>China's foreign relations were thereby entirely reordered.  The Sinocentric worldview and the tribute system were destroyed.  In 1861 China established a new institution, the Tsungli Yamen or "Office for General Management of Affairs with the Various Nations," a kind of incipient ministry of foreign affairs.  Within a few years, China sent its first diplomatic missions overseas, and by 1879 it had established some permanent embassies abroad.  
+>
+>China was hauled into the international state system on terms that made an appearance of equal treatment but which in fact left a culturally devastated China in a condition of inferiority and disarray.  Although the British had dragged China into the system, China was not of it.  The Boxer Rebellion of 1900 was anti-Christian and antiforeign.  The Imperial Court, expecting the rebels to succeed, supported their assault on the diplomatic quatter of Peking.  The dynasty itself declared war on the foreign missions, a rejection of the international system it had been forced to accept through unequal treaties..  This brought the Boxer Relief Expedition to Peking in the international system's first act of "collective security, " with British, American, French, German, Belgian, Austro-Hungarian, Italian, Indian, and Japanese troops all involved.
+>
+>...
+>
+>Lao Ts'an and his friends take a nearby fishing boat to try to help the giant ship.  The reason the ship is in trouble, Lao Ts'an says, is that it was not prepared for the storm and doesn't know where it is going.  So the three will take modern navigational equipment to the captain (in other words, the answer to China's national distress lies in the adoption of modern Western technology). 
+>
+>When they reach the ship, one passenger is calling upon the others to take action.  he collects money from them and tells them they must organize themselves.  The outcome is that he gets the money while they shed their blood (this, the allegory tells us, is the way of revolution).  When Lao Ts'an's boat comes alongside the great ship to deliver the navigational equipment, the would-be rescuers are denounced by the passengers because the equipment is foreign.  The passengers begin to tear their own ship apart in order to throw planks at Lao Ts'an's small boat to sink it.
+>
+>...
+>
+>The immense shock of this culture in its attempt to comprehend and survive the coming of the international state system is revealed here in all aspects.
+>
+>...
+>
+>The revolution warned against in <em>The Travels of Lao Ts'an</em> would come, with devastating consequence.  There began decades of cultural disintegration and political upheaval.  
+>
+>The Revolution of 1911 deposed the emperor and established the Republic of China.  Officially, this seemed to install China as a member of the international system.  But China was a state in name only.  Traditional China was collapsing; modern China was not functional.  Many leading intellectuals, as though emulating Lao Ts'an, withdrew from politics, among them the brilliant scholar-statesman Hu Shih, who had written an introduction to the novel's first publication.
 
 ***Page 243/244/245***
 
 >Terrorism is built into the Communist ideology (the class enemy, the counterrevolutionaries, must be eliminated), and Tchen takes to it as a dedicated Marxist.  The thought that he might have private desires or needs apart from the great cause of the revolution is agonizing to him. But in fact, Tchen is one of those near-pathological human beings who cluster around any political movement, intellectually incorporating and thereby legitimizing terroristic cruelty and killing.  when ideology authorizes terrorism, killers will come forward.  Tchen has made the Communist coup possible when he crept into a Shanghai hotel room after midnight to stand silently at the bedside of a sleeping man.  Should he lift the mosquito netting or strike through it? He strikes through the net "with a blow that would have split a plank."  He gathers up the papers needed to gain control of a shipment of arms.  when the coup has gained power and the Nationalists move into Shanghai to liquidate th e Communists, Tchen throws a bomb at Chiang Kai-shek's car, but the car is empty.  he then turns himself into a bomb in another attempt to kill Chiang, but that attempt t fails too, and Tchen dies in agony.  His death is not a revolutionary act; he simply destroys himself, because for him and those like him, terrorism is erotically irresistible, blurring metaphysics, politics, and sex.
-
-...
-
-Love between two individuals is something the party cannot tolerate, because it puts something above the necessity to sacrifice  one's all for the revolution.
-
-Chang's KMT takes Shanghai.  He has selected an exquisite way to destroy the Communist leaders; throw them one by one, alive, into the boiler of a steam locomotive.  Here is terrorism with no reference to ideology or individual commitment, just barbarism unleashed.  As prisoners, Katov and Kyo, who have reached the mouth of the boiler from different paths and principles, can hear the locomotive whistle whose sound signals that another one of their comrades has been shoved into the steam boiler.  Katov then breaks his own poison tablet in two and gives it to two terrified young Chinese boys who are next in line - the ultimate revolutionary sacrifice, as a KMT officer summons him to the fiery furnace.
-
-...
-
-Chiang Kai-shek's 1927 destruction of the Communist Party in Shanghai launched political, military, and intellectual changes that would reshape Chinese and world communist ideology.  With the urban proletariat bas devastated, Mao established Communist bases in Chingkanshan, the almost impenetrable, steep-sided mountains inland from the coastal cities.  To go with his geostrategic shift, Mao reformulated the ideology to feature peasants rather than urban workers.  This was a radical shift from Marx and Lenin, both of whom viewed the peasantry as conservative and backward-looking, without the proletariat's revolutionary consciousness.
-
-In the early 1930s Chiang's Nationalist army launched one "encirclement" campaign after another to try to destroy Mao's bases; each failed as the Communists simply evaded the assault's spearheadand then returned to their base one the Nationalists withdrew.  Mao was perfecting a guerrilla strategy drawn from the ancient Chinese <em>Art of War</em> by Sun Tzu: "The enemy attacks, we retreat; the enemy halts, we harass; the enemy retreats, we pursue."
- 
-
+>
+>...
+>
+>Love between two individuals is something the party cannot tolerate, because it puts something above the necessity to sacrifice  one's all for the revolution.
+>
+>Chang's KMT takes Shanghai.  He has selected an exquisite way to destroy the Communist leaders; throw them one by one, alive, into the boiler of a steam locomotive.  Here is terrorism with no reference to ideology or individual commitment, just barbarism unleashed.  As prisoners, Katov and Kyo, who have reached the mouth of the boiler from different paths and principles, can hear the locomotive whistle whose sound signals that another one of their comrades has been shoved into the steam boiler.  Katov then breaks his own poison tablet in two and gives it to two terrified young Chinese boys who are next in line - the ultimate revolutionary sacrifice, as a KMT officer summons him to the fiery furnace.
+>
+>...
+>
+>Chiang Kai-shek's 1927 destruction of the Communist Party in Shanghai launched political, military, and intellectual changes that would reshape Chinese and world communist ideology.  With the urban proletariat bas devastated, Mao established Communist bases in Chingkanshan, the almost impenetrable, steep-sided mountains inland from the coastal cities.  To go with his geostrategic shift, Mao reformulated the ideology to feature peasants rather than urban workers.  This was a radical shift from Marx and Lenin, both of whom viewed the peasantry as conservative and backward-looking, without the proletariat's revolutionary consciousness.
+>
+>In the early 1930s Chiang's Nationalist army launched one "encirclement" campaign after another to try to destroy Mao's bases; each failed as the Communists simply evaded the assault's spearheadand then returned to their base one the Nationalists withdrew.  Mao was perfecting a guerrilla strategy drawn from the ancient Chinese <em>Art of War</em> by Sun Tzu: "The enemy attacks, we retreat; the enemy halts, we harass; the enemy retreats, we pursue."
 
 ***Page 246/247/428***
 
 >Mao changed the economic base of China, but social transformation did not follow.  So Mao turned Marxism on its head and launched the "Cultural Revolution."  Culture - what was in people's heads - must change.  Until it did, society as a whole could not accept the perfected form of human life that was communism.  Mao therefore called for every aspect of traditional, bourgeois, intellectual Chinese culture to be destroyed.  Peking Opera was abolished, and entirely new operas were written - revolutionary works like "Taking Tiger Mountain by Storm."
-
-In this campaign the Marxist-Leninist doctrine of terrorism was expanded.  In the Soviet ideology, the proletariat was the authentic class, the possessor of the revolutionary consciousness.  Other classes would have to accept "the Dictatorship of the Proletariat" or suffer the consequences, as when Stalin ordered the liquidation of the entire class of landed peasants, the kulaks.  Under Mao, anyone suspected of retaining any shred of bourgeois mentality or counterrevolutionary sentiment might be "struggled" against or eliminated.
-
-This approach was carried out more thoroughly by the Khmer Rouge in the genocide it inflicted upon Cambodia in the late 1970s.  To wear glasses or carry a ballpoint pen was evidence of a bourgeois education; the consequence was to be sent to the countryside and worked to death, or to be executed at once.  The Khmer rouge made careful records, with photographs and detailed explanations of each individual it eradicated.  Under the doctrine of justified, indeed required, terror, Khmer Rouge members were proud to be able to prove what Communists they were.
-
-...
-
-[<em>The Singapore Story</em>]
-
-
-
 >
-At 10 am, the pop tunes on the radio were cut off abruptly.  Stunned listeners heard the announcer read out a proclamation - 90 words that changed the lives of the people of Singapore and Malaysia:
-
-Whereas it is the inalienable right of a people to be free and independent, I Lee Kuan Yew, prime minister of Singapore, do hereby problem and declare on behalf of the people and the government of Singapore that as from today, the ninth day of August in the year one thousand and nine hundred and sixty-five, Singapore shall be forever a sovereign, democratic and independent nation founded upon the principles of liberty and justice and ever seeking the welfare and happiness of her people in a more just and equal society.
-
-
-....
-
-Here was the Westphalian moment: a new state comes into being,, enters the international system as a member state of the United Nations, and is given diplomatic recognition as legitimate, even permanent, and sovereign, with commitments by all to adhere to the norms of the established world order.
-
-...
-
-As a new state, Lee's Singapore would struggle desperately to avoid being taken over by the Communist Party backed by the People's Republic of China.  
-
-In 1970 Prime Minister Lee visited Harvard.  About twenty faculty members invited him to dinner at the Faculty Club. As a Foreign Service officer then doing a fellowship at Harvard, I attended too.  The intellectuals were in a jolly, self-satisfied mood, for the american war in Vietnam was going badly.  The "New Left" had arrived on American campuses - new because the student left had turned to Mao's China and Red Guards as models, Stalin's Soviet crimes having been denounced in Khrushchev's 1956 "Secret Speech." Mao's Cultural Revolution was inspiring student activism in Europe and the United States. At Harvard, I watched in horror as students "struggled" (in the Maoist sense of the term) against the distinguished China scholar John King Fairbank, viscously condemning him for his "counterrevolutionary" views.  The campus was in its second year of upheaval, with students "on strike; the faculty members present at the dinner support "the kids" and were ready to acquiesce in their demands that classes, papers, and examinations - but not grades - be canceled.
-
-...
-
-Lee was having none of it.  He lit into them with blistering rhetoric: "What America has done and is doing by helping the Republic of Vietnam survive the Communist attack is buying time for other Southeast Asian people to consolidate their independence as legitimate sovereign states.  If the U.S. were not fighting in Vietnam, Singapore would be gone by now!"  Lee meant that the American decision to support South Vietnam's resistance to Communist takeover was necessary for Singapore as well as Malaysia, the Philippines, Indonesia, and Thailand to battle communism in their own lands and consolidate their young states.  The professors called an early end to the evening.  not many years later, the emergence of the "Asian Tigers" as successful states in the global economy would prove Lee correct.
-
-A half-century ago, Asia was the most violent, turbulent region of the world.  communism, the deadly enemy of the international state system, was making it so.  At the turn of the twenty-first century, Asia is firmly and for the most part comfortably ensconced in the Westphalian system.  Singapore - Hindu, Malay, and Chinese in makeup - has been one of the exemplars.  And no member of the international system is more assiduous in asserting the importance and inviolability of the privileges and immunities of the sovereign state than the People's Republic of China, though this may in part stem from Beijing's awareness that it in  some sense remains an empire (with boundaries not much changed sin the Ch'ing Dynasty) in the clothing of a state.   Overall, Asia is now as Westphalian as they come.  The progress of Asian societies has demonstrated that despite decades or even a century or more of war, turbulence, and injustice, when a state is established and functions as a good citizen of the international system, things quickly improve for its people.
-
+>In this campaign the Marxist-Leninist doctrine of terrorism was expanded.  In the Soviet ideology, the proletariat was the authentic class, the possessor of the revolutionary consciousness.  Other classes would have to accept "the Dictatorship of the Proletariat" or suffer the consequences, as when Stalin ordered the liquidation of the entire class of landed peasants, the kulaks.  Under Mao, anyone suspected of retaining any shred of bourgeois mentality or counterrevolutionary sentiment might be "struggled" against or eliminated.
+>
+>This approach was carried out more thoroughly by the Khmer Rouge in the genocide it inflicted upon Cambodia in the late 1970s.  To wear glasses or carry a ballpoint pen was evidence of a bourgeois education; the consequence was to be sent to the countryside and worked to death, or to be executed at once.  The Khmer rouge made careful records, with photographs and detailed explanations of each individual it eradicated.  Under the doctrine of justified, indeed required, terror, Khmer Rouge members were proud to be able to prove what Communists they were.
+>
+>...
+>
+>[<em>The Singapore Story</em>]
+>At 10 am, the pop tunes on the radio were cut off abruptly.  Stunned listeners heard the announcer read out a proclamation - 90 words that changed the lives of the people of Singapore and Malaysia:
+>
+>Whereas it is the inalienable right of a people to be free and independent, I Lee Kuan Yew, prime minister of Singapore, do hereby problem and declare on behalf of the people and the government of Singapore that as from today, the ninth day of August in the year one thousand and nine hundred and sixty-five, Singapore shall be forever a sovereign, democratic and independent nation founded upon the principles of liberty and justice and ever seeking the welfare and happiness of her people in a more just and equal society.
+>
+>...
+>
+>Here was the Westphalian moment: a new state comes into being,, enters the international system as a member state of the United Nations, and is given diplomatic recognition as legitimate, even permanent, and sovereign, with commitments by all to adhere to the norms of the established world order.
+>
+>...
+>
+>As a new state, Lee's Singapore would struggle desperately to avoid being taken over by the Communist Party backed by the People's Republic of China.  
+>
+>In 1970 Prime Minister Lee visited Harvard.  About twenty faculty members invited him to dinner at the Faculty Club. As a Foreign Service officer then doing a fellowship at Harvard, I attended too.  The intellectuals were in a jolly, self-satisfied mood, for the american war in Vietnam was going badly.  The "New Left" had arrived on American campuses - new because the student left had turned to Mao's China and Red Guards as models, Stalin's Soviet crimes having been denounced in Khrushchev's 1956 "Secret Speech." Mao's Cultural Revolution was inspiring student activism in Europe and the United States. At Harvard, I watched in horror as students "struggled" (in the Maoist sense of the term) against the distinguished China scholar John King Fairbank, viscously condemning him for his "counterrevolutionary" views.  The campus was in its second year of upheaval, with students "on strike; the faculty members present at the dinner support "the kids" and were ready to acquiesce in their demands that classes, papers, and examinations - but not grades - be canceled.
+>
+>...
+>
+>Lee was having none of it.  He lit into them with blistering rhetoric: "What America has done and is doing by helping the Republic of Vietnam survive the Communist attack is buying time for other Southeast Asian people to consolidate their independence as legitimate sovereign states.  If the U.S. were not fighting in Vietnam, Singapore would be gone by now!"  Lee meant that the American decision to support South Vietnam's resistance to Communist takeover was necessary for Singapore as well as Malaysia, the Philippines, Indonesia, and Thailand to battle communism in their own lands and consolidate their young states.  The professors called an early end to the evening.  not many years later, the emergence of the "Asian Tigers" as successful states in the global economy would prove Lee correct.
+>
+>A half-century ago, Asia was the most violent, turbulent region of the world.  communism, the deadly enemy of the international state system, was making it so.  At the turn of the twenty-first century, Asia is firmly and for the most part comfortably ensconced in the Westphalian system.  Singapore - Hindu, Malay, and Chinese in makeup - has been one of the exemplars.  And no member of the international system is more assiduous in asserting the importance and inviolability of the privileges and immunities of the sovereign state than the People's Republic of China, though this may in part stem from Beijing's awareness that it in  some sense remains an empire (with boundaries not much changed sin the Ch'ing Dynasty) in the clothing of a state.   Overall, Asia is now as Westphalian as they come.  The progress of Asian societies has demonstrated that despite decades or even a century or more of war, turbulence, and injustice, when a state is established and functions as a good citizen of the international system, things quickly improve for its people.
 
 ***Page 255***
 
 >The Ottoman Empire was "the sick man of Europe," and power in Constantinople-Istanbul had been seized by "the Young Turks." The future of it's region had long been debated and negotiated.  in 1916 a secret exchange of notes among Britain, France, and Russia, known as the Sykes-Picot Agreement, described how the middle East would be partitioned after the war: the Arabian Peninsula would be independent.  Palestine west of the Jordan River would be under an international regime. A French sphere would stretch from the Mediterranean to Damascus to Mosul in Mesopotamia.  A British sphere would run across the south from the Negev Desert to the east of the Jordan River into central Mesopotamia, with a northern arm reaching into Persia, a southern arm to the Persian Gulf and Baghdad under direct British control.  Tsarist Russia agreed to all this in return for the right annex lands along its souther border.
-
-The Sykes-Pico deal was discovered and published by the Bolsheviks after the Russian Revolution. Both Arabs and Zionists harshly criticized the agreement as contrary to the promises made by the Allies.  although the French and the British envisioned semiautonomous Arab states coming into being within their spheres, the plan clearly was for Western dominance of all the Middle East formerly under the Ottoman Empire and Caliphate.  
+>
+>The Sykes-Pico deal was discovered and published by the Bolsheviks after the Russian Revolution. Both Arabs and Zionists harshly criticized the agreement as contrary to the promises made by the Allies.  although the French and the British envisioned semiautonomous Arab states coming into being within their spheres, the plan clearly was for Western dominance of all the Middle East formerly under the Ottoman Empire and Caliphate.  
 
 ***Page 257***
 
@@ -539,47 +522,41 @@ The Sykes-Pico deal was discovered and published by the Bolsheviks after the Rus
 ***Page 268/269***
 
 >It was, at it still is, a narrative of moderation and passion, and as in <em>The Mandelbaum Gate</em>, religion is the key
-
-....
-
-Spark touches on the trial only here and there, but Eichmann's hovering presence hinges the question of good and evil, moderation and fanaticism, in the story.  Hannah Arendt would famously address thesse issues in <em>Eichmann in Jerusalem</em> and coin the phrase "the banality of evil" to describe the defendant's "ordinariness."  Spark's conception in the Mandelbaum Gate is greater than Arendt's in placing the Eichmann example at the center of a wider, more universally human conundrum.  Moderation can be essential for the good, and passion can be devastatingly bad.  But moderation can also be wholly in the service of evil, and passion can be indispensable for the success of a rightful cause.  in this sense, Spark's narrative is an extended examination of W.B. Yeats's dark observation, "The best lack all conviction, while the worst are full of passionate intensity." In this modern world of uncertainty and indeterminate identity, Eichmann has welcomed categorization by an oppressive regime.  A malignantly, falsely integrated being, Eichmann is the antithesis of Barbara Vaughan in her search for identity.
+>
+>...
+>
+>Spark touches on the trial only here and there, but Eichmann's hovering presence hinges the question of good and evil, moderation and fanaticism, in the story.  Hannah Arendt would famously address thesse issues in <em>Eichmann in Jerusalem</em> and coin the phrase "the banality of evil" to describe the defendant's "ordinariness."  Spark's conception in the Mandelbaum Gate is greater than Arendt's in placing the Eichmann example at the center of a wider, more universally human conundrum.  Moderation can be essential for the good, and passion can be devastatingly bad.  But moderation can also be wholly in the service of evil, and passion can be indispensable for the success of a rightful cause.  in this sense, Spark's narrative is an extended examination of W.B. Yeats's dark observation, "The best lack all conviction, while the worst are full of passionate intensity." In this modern world of uncertainty and indeterminate identity, Eichmann has welcomed categorization by an oppressive regime.  A malignantly, falsely integrated being, Eichmann is the antithesis of Barbara Vaughan in her search for identity.
 
 
 ***Page 270/271***
 
 >As Abba Eban wrote in his autobiography, in theory the sate, as a concept and as the fundamental entity of world affairs, ought to be in eclipse.  The multiplicity of sates in a world where sovereignty has lost much of its meaning is "the central political anomaly of our age. . . . There is no sign that the individual nation-state is about to be superseded as the focus of allegiance and social pride."
-
-
+>
 >Israel's vulnerability is much increased by the fact that we have not won any degree of international legitimacy for the present territorial and administrative structure.  The realistic school of diplomacy held that military power was the dominant theme of the interstate relations.  It has now been proved that the eclipse of legitimacy is a more potent issue. 
-
-After the Six-Day War, Arab regimes sought the most potent way to strike at Israel.  They declared at Khartoum "The Three Nos": no peace (that is, no secure and recognized borders), no negotiation (no diplomacy), and no recognition (no legitimacy) - a rejection of all of Israel's claims to statehood.  A fourth "no" was to refuse to utter the name of the "the Zionist entity."  A decade later, Egypt signed a treaty of peace with Israel.  In 1981 President Anwar Sadat was assassinated as payback for his apostasy.
-
+>
+>After the Six-Day War, Arab regimes sought the most potent way to strike at Israel.  They declared at Khartoum "The Three Nos": no peace (that is, no secure and recognized borders), no negotiation (no diplomacy), and no recognition (no legitimacy) - a rejection of all of Israel's claims to statehood.  A fourth "no" was to refuse to utter the name of the "the Zionist entity."  A decade later, Egypt signed a treaty of peace with Israel.  In 1981 President Anwar Sadat was assassinated as payback for his apostasy.
 
 ***Page 281***
 
 >The Arab-Israeli conflict has emerged as only one dimension of a war against the international state system.  The defenders of the international system are those states that are members of it in good standing, such as the Gulf Sates, Israel, and Jordan, and those that seek to move in that direction, like Lebanon, Yemen, Egypt, and Iraq.  Its enemies are oppressive regimes which have seized state power for their own enrichment and set themselves against the international state system. Saddam Hussein's Iraq was such a state until overthrown.  Gaddafi's Libya was such an enemy too until recently.  Most ideologically virulent are the nonstate, antistate, Islamists, the jihadists who oppose and would overthrow and replace the international state system.  The Middle East is the main battleground of this world-spanning confrontation.  It has been, and is, a matter of moderation or passion in the best or worst forms of each of those qualities.
-
-Throughout most of the modern age, the worry about the state has been its exaltation, even deification, in its ceaseless drive to expand its powers.  After the Cold War, another assessment has pointed to globalization, electronic communications, migration, and the devolution of power downward along with the voluntary transfer of power upward - new and centrifugal forces, possible heralding the end of the sovereign state.  Yet the state, and the Westphalian international system of which it is the basic entity, remain the only working mechanism for world order.
+>
+>Throughout most of the modern age, the worry about the state has been its exaltation, even deification, in its ceaseless drive to expand its powers.  After the Cold War, another assessment has pointed to globalization, electronic communications, migration, and the devolution of power downward along with the voluntary transfer of power upward - new and centrifugal forces, possible heralding the end of the sovereign state.  Yet the state, and the Westphalian international system of which it is the basic entity, remain the only working mechanism for world order.
  
-
 ***Page 285/286***
 
 >Early on the dark, cold evening of January 12, 1986, Secretary of State George Shultz was escorted up the grand staircase between Patience and Fortitude, the famous inquiring lions of the New York Public library.  Shultz was greeted by Norman Mailer, then the president of PEN (Poets, Playwrights, Editors, Essayists, and Novelists).  This was the first meeting of PEN International in the United States in twenty years; the topic was "How Does the State imagine." "PEN's chief business, " said the novelist richer Stern, "is rescuing the world's writers from the political and social consequences of their work.  The world is older than the state state.  Words form and reform state.  Those who run states know the powers of words and attempt to control them.  PEN, as much as any group, not only stands for liberty of the word  but does something about it.  It gets international petitions to parliaments and heads of states.  Frequently it helps to unlock prison doors."
-
-...
-
-Grace Paley jumped up to show that the petition against his presence be read aloud from the podium, Shultz persevered.  He praised
-
-
+>
+>...
+>
+>Grace Paley jumped up to show that the petition against his presence be read aloud from the podium, Shultz persevered.  He praised
+>
 >the creative literary writer as an individual of primary importance for the entire range of thought, culture and human existence . . . . America is proud to have you here.  Diversity, debate, contrast, argumentativeness, are what we as  a people thrive on . . . . Freedom - that is what we are talking about and why we are here.  And the writer is at the heart of freedom. 
-
-No government or ideological system has ever yet succeeded in stopping the writer. . . . There are countries in which writers know that if their art appears to threaten the political fortunes of their ruler, they may be silenced, imprisoned, or even killed. . . . By contrast, there are other countries - and I'm proud to say that the United States is one of them - where writers can speak, write, and publish without political hindrance.
-
-...
-
-The hall erupted in outrage.  Mailer rose to speak.  Hoots and catcalls. "Read the protest!"  "Up yours!" Mailer shouted.
-
-
+>
+>No government or ideological system has ever yet succeeded in stopping the writer. . . . There are countries in which writers know that if their art appears to threaten the political fortunes of their ruler, they may be silenced, imprisoned, or even killed. . . . By contrast, there are other countries - and I'm proud to say that the United States is one of them - where writers can speak, write, and publish without political hindrance.
+>
+>...
+>
+>The hall erupted in outrage.  Mailer rose to speak.  Hoots and catcalls. "Read the protest!"  "Up yours!" Mailer shouted.
 
 ***Page 288***
 
@@ -596,8 +573,8 @@ The hall erupted in outrage.  Mailer rose to speak.  Hoots and catcalls. "Read t
 ***Page 293/294***
 
 >... Kasch suggests that Westphalian structures have been hollowed out by the corrosive rationalism of modernity and that the example Talleyrand, "the last man to know anything about ceremonies," holds the door open to renovating the foundations of world order.  At a critical moment in world affairs, Talleyrand recognized one of those rare occasions when an idea can shape the fate of nations - the concept of "legitimacy" so severely damaged today.
-
-The international world of states and their modern system is a literary realm; it is where the greatest issues of the human condition are played out. A sacral nature must infuse world order if it is to be legitimate.  That order is not to be identified with a particular social system, but to be legitimate, the system at least must hint at the underlying divinely founded order.  The modern Westphalian system was conceived when such was the case, but with the Enlightenment's addition of secularism, science, reason, and democracy, the system increasingly spurned, then forgot, its legitimizing sources of authority.  This is what John Paul II strove to convey at the United nations' fiftieth anniversary.  Revolutionary ideology radicalized secularism, science, and reason into the task of erasing original sin, of perfecting humanity - all requiring terror to create "the New Man."  Modern efforts to create a sovereignty potent enough to fill the void produced the statist monstrosities of Stalin and Hitler.  America became an empire but never gained the understanding to go with it.  China is now on its own misguided course.
+>
+>The international world of states and their modern system is a literary realm; it is where the greatest issues of the human condition are played out. A sacral nature must infuse world order if it is to be legitimate.  That order is not to be identified with a particular social system, but to be legitimate, the system at least must hint at the underlying divinely founded order.  The modern Westphalian system was conceived when such was the case, but with the Enlightenment's addition of secularism, science, reason, and democracy, the system increasingly spurned, then forgot, its legitimizing sources of authority.  This is what John Paul II strove to convey at the United nations' fiftieth anniversary.  Revolutionary ideology radicalized secularism, science, and reason into the task of erasing original sin, of perfecting humanity - all requiring terror to create "the New Man."  Modern efforts to create a sovereignty potent enough to fill the void produced the statist monstrosities of Stalin and Hitler.  America became an empire but never gained the understanding to go with it.  China is now on its own misguided course.
 
 
 ***Page 296***
