@@ -167,4 +167,4 @@ This book provides some remarkable insights into world war 2.  It's also interes
 
 >"The catastrophe of this war," I wrote in my cell in 1947, "has proved the sensitivity of the system of modern civilization evolved in the course of centuries.  Now we know that we do not live in an earthquake-proof structure.  The build-up of negative impulses, each reinforcing the other, can inexorably shake to pieces the complicated apparatus of the modern world.  There is no halting this process by will alone.  The danger is that the automatism of progress will depersonalize man further and withdraw more and moe of his self-responsibility."
 >
->Dazzled by the possibilities of technology, I devoted crucial years of my life to serving it.  But in the end my feelings about it are highly skeptical.]]&gt;</content:encoded>
+>Dazzled by the possibilities of technology, I devoted crucial years of my life to serving it.  But in the end my feelings about it are highly skeptical.
