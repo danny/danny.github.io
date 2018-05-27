@@ -55,79 +55,79 @@ I'm a huge fan of Peter Hopkirk, he's one of my favorite authors.   Unfortunatel
 
 ***Page 197***
 > ... The Finns, rather like the Hungarians, trace their ancestry back to the warlike hordes who once inhabited the Asian steppes, and their scholars were anxious to enlarge their knowledge of the peoples and history of this region.  
-
-  As Mannerheim rode, in addition to mapping his route and recording military intelligence, he also measured human heads with calipers, collected everything from rustic surgical instruments to rolling pins, and purchased antiquities and manuscripts. 
+>
+> As Mannerheim rode, in addition to mapping his route and recording military intelligence, he also measured human heads with calipers, collected everything from rustic surgical instruments to rolling pins, and purchased antiquities and manuscripts. 
 
 ***Page 200/201***
 > ... that the Russians made their first -- and only -- discovery of major importance.  This was Karakhoto, meaning 'Black City', and not to be confused with Karkhoja. ...
-
-  ... At a remote spot in the Gobi he and his men were astonished to see rising from the desert a huge fortress town.  'The walls of the town are covered with sand, in some places so deeply that it is possible to walk up the slope and enter the fortress,' Koslov reported.  The awe struck Russians made their entry, however, through the great western gateway.  'Here we found a quadrangular space whereon were scattered high and low, broad and narrow, ruins of buildings with rubbish of all kinds at their feet,' Koslov added.
-
-  Local oasis-dwellers told the Russians how the city came to be destroyed (in the fourteenth century, it is now known, a hundred years or so after Marco Polo's visit).  The last ruler of the city - one Kara-tsian-tsiun - putting his faith in his hitherto invincible army, determined to seize the throne of China for himself.  The Emperor dispatched a considerable force against him and, after a series of battles, finally cornered the rebel in his capital.  Finding that they could not take it by assault, because of its high walls, the Chinese decided to sever its only water supply, the Etsin-gol river. Filling thousands of bags with sand to form a dam, they managed to diver this away from the city. (As confirmation of this story, Koslov came upon evidence of the dam.) The defenders, desperate for water, began to dig a deep well in one corner of the fortress. Finding no water they resolved to face the Chinese in one last desperate battle.  Kara-tsain-tsiunn, anticipating defeat, had his treasury, filling eighty carts, it was said - lowered into the well.  He next killed his two wives and his son and daughter, fearing what might happen to them if they fell into Chinese hands.  Finally, he ordered a breach to be made in the northern wall, and through this he charged at the head of his troops.  His once invincible army was wiped out and he himself killed.  The Chinese reduced the city to ruins, having firs tried to find the treasury which they knew must be somewhere near.  But they failed, as all subsequent attempts had.  This, it was said, was because Kara-tsian-tsiun had cast a spell over the spot before charing to his death.
+>
+> ... At a remote spot in the Gobi he and his men were astonished to see rising from the desert a huge fortress town.  'The walls of the town are covered with sand, in some places so deeply that it is possible to walk up the slope and enter the fortress,' Koslov reported.  The awe struck Russians made their entry, however, through the great western gateway.  'Here we found a quadrangular space whereon were scattered high and low, broad and narrow, ruins of buildings with rubbish of all kinds at their feet,' Koslov added.
+>
+>Local oasis-dwellers told the Russians how the city came to be destroyed (in the fourteenth century, it is now known, a hundred years or so after Marco Polo's visit).  The last ruler of the city - one Kara-tsian-tsiun - putting his faith in his hitherto invincible army, determined to seize the throne of China for himself.  The Emperor dispatched a considerable force against him and, after a series of battles, finally cornered the rebel in his capital.  Finding that they could not take it by assault, because of its high walls, the Chinese decided to sever its only water supply, the Etsin-gol river. Filling thousands of bags with sand to form a dam, they managed to diver this away from the city. (As confirmation of this story, Koslov came upon evidence of the dam.) The defenders, desperate for water, began to dig a deep well in one corner of the fortress. Finding no water they resolved to face the Chinese in one last desperate battle.  Kara-tsain-tsiunn, anticipating defeat, had his treasury, filling eighty carts, it was said - lowered into the well.  He next killed his two wives and his son and daughter, fearing what might happen to them if they fell into Chinese hands.  Finally, he ordered a breach to be made in the northern wall, and through this he charged at the head of his troops.  His once invincible army was wiped out and he himself killed.  The Chinese reduced the city to ruins, having firs tried to find the treasury which they knew must be somewhere near.  But they failed, as all subsequent attempts had.  This, it was said, was because Kara-tsian-tsiun had cast a spell over the spot before charing to his death.
 
 ***Page 209/213/215***
 > In the autumn of 1923, two Americans floundered westwards along the old Silk Road...
-
-The two bedraggled travelers, both of them orientalists, were Langdon Warner of the Fogg Art Museum at Harvard and Horace Jayne of the Museum of Pennsylvania.  With their modest four <em>mappas</em>, or two wheeled Chinese carts, and their secretary-interpreter Wang, they comprised the first American expedition to Chinese Central Asia.
-
-... as it turned out he [Warner] and Jayne had come only just in time, for the door was already beginning to close.
-
-...
-
-AS they continued westwards, the two men became aware of something else.  'For days now,' Warner recounts, 'there had been a strange, half-felt presence on the Great North-West Road, as of other foreigners with us... Every chamber of every inn and many bare walls in abandoned towns were scrawled with Russian names and regimental numbers and dates not many months old.' More foreigners had trodden the Silk Road in the previous three years, he added, than in the two thousand years before.  These were the White Russian refugees, civillians and soldiers, fleeing eastwards from the Bolshevik terror.  Many were already living in Peking and Shanghai, while some had gone even further east.  Warner wrote: '... Japanese cities saw, for the first time in history, white men and barefoot women begging from Asiatics by the roadside.' Except for the occasional straggler, almost all the refugees had now left the Silk Road.  They did, however, come upon one lonely, ragged sixteen-year-old Russian boy to whom they gave what money they could spare.  His 'fresh blue eyes' were to haunt Warner for the rest of his life.  He often wondered what became of that boy 'in the cynical school to which I left him - a North China winter and the cant mercy of the yellow man'.
+>
+> The two bedraggled travelers, both of them orientalists, were Langdon Warner of the Fogg Art Museum at Harvard and Horace Jayne of the Museum of Pennsylvania.  With their modest four <em>mappas</em>, or two wheeled Chinese carts, and their secretary-interpreter Wang, they comprised the first American expedition to Chinese Central Asia.
+>
+>... as it turned out he [Warner] and Jayne had come only just in time, for the door was already beginning to close.
+>
+>...
+>
+> AS they continued westwards, the two men became aware of something else.  'For days now,' Warner recounts, 'there had been a strange, half-felt presence on the Great North-West Road, as of other foreigners with us... Every chamber of every inn and many bare walls in abandoned towns were scrawled with Russian names and regimental numbers and dates not many months old.' More foreigners had trodden the Silk Road in the previous three years, he added, than in the two thousand years before.  These were the White Russian refugees, civillians and soldiers, fleeing eastwards from the Bolshevik terror.  Many were already living in Peking and Shanghai, while some had gone even further east.  Warner wrote: '... Japanese cities saw, for the first time in history, white men and barefoot women begging from Asiatics by the roadside.' Except for the occasional straggler, almost all the refugees had now left the Silk Road.  They did, however, come upon one lonely, ragged sixteen-year-old Russian boy to whom they gave what money they could spare.  His 'fresh blue eyes' were to haunt Warner for the rest of his life.  He often wondered what became of that boy 'in the cynical school to which I left him - a North China winter and the cant mercy of the yellow man'.
 
 ***Page 217/218/219***
 > Soon the men were suffering from exhaustion and Jayne decided to ride one of the camels.  It was a near fatal error.  When he dismounted from his kneeling camel at the next halt, he fell flat on his face, unable to stand.  Warner wrote: 'I stretched him on the snow with his back to a blaze and took off his fur boots to find both feet frozen stiff.' For the next three hours he and Wang, their interpreter, rubbed Jayne's feet with snow (the classic emergency treatment for frostbite, which had nonetheless failed to save Stein's toes). When the sensation returned, the pain was so severe that Jayne passed out.  'Still we scrubbed feverishly, hardening our hearts,' Warner recounts.  Occasionally they gave their patient a drink of raw Chinese spirit which they carried as fuel for the small emergency cooker.  Finally they rubbed the frozen skin with grease, in the hope that this would save some at least of the blistered skin. 'We put his soles against the bare skin inside our shirts to give them natural heat,' wrote Warner.  "All this time he had uttered no word of complaint, mustering up a feeble grin when I asked him the banal question of how he felt.'
-
-... Jayne had developed a high fever and Warner was haunted by the fear of his feet turning gangrenous. After an absence of three days, Wang returned in the middle of the night with a ramshackle cart and its reluctant owner.  The next day they set out with Jayne in the cart and the anxious Warner trudging behind, cursing himself for letting the misfortune happen and wondering how one amputated a human foot 'with a hunting knife and no anesthetics'. 
-
-... 
-
-It was a nightmarish journey made even worse by the unexpectedly hostile attitude of the local population who, in one village, greeted the foreigners with jeers and catcalls, and in other tried to extort money from them or even rob them.  It was their first encounter with such behavior, and was not to be their last.  Finally, on the eighteenth day, they reached the walled town of Kanchou. To their relief, the Chinese doctor was there- 'full of Christianity and antiseptics', wrote the grateful Warner.  After cleaning Jayne's blistered and swollen limbs he pronounced that they had already begun to heal and that gangrene was no longer a serious risk. After a further sixteen days spent convalescing Jayne felt sufficiently better to leave for Tun-huan.  
-
-...
-
-Moreover, the worst of the Chinese Central Asian winter was still to come.  Deeply disappointed, Jayne agreed to make his way slowly back to Peking with the meagre material they had excavated at Karakhoto. 
+>
+>... Jayne had developed a high fever and Warner was haunted by the fear of his feet turning gangrenous. After an absence of three days, Wang returned in the middle of the night with a ramshackle cart and its reluctant owner.  The next day they set out with Jayne in the cart and the anxious Warner trudging behind, cursing himself for letting the misfortune happen and wondering how one amputated a human foot 'with a hunting knife and no anesthetics'. 
+>
+>... 
+>
+>It was a nightmarish journey made even worse by the unexpectedly hostile attitude of the local population who, in one village, greeted the foreigners with jeers and catcalls, and in other tried to extort money from them or even rob them.  It was their first encounter with such behavior, and was not to be their last.  Finally, on the eighteenth day, they reached the walled town of Kanchou. To their relief, the Chinese doctor was there- 'full of Christianity and antiseptics', wrote the grateful Warner.  After cleaning Jayne's blistered and swollen limbs he pronounced that they had already begun to heal and that gangrene was no longer a serious risk. After a further sixteen days spent convalescing Jayne felt sufficiently better to leave for Tun-huan.  
+>
+>...
+>
+>Moreover, the worst of the Chinese Central Asian winter was still to come.  Deeply disappointed, Jayne agreed to make his way slowly back to Peking with the meagre material they had excavated at Karakhoto. 
 
 ***Page 219/220/222***
 > Wang, the little priest, was absent (as ever), but this did not deter Warner.  He made straight for the painted caves, and during the next days rarely left them except to eat or to sleep.  In <em>The Long Old Road in China</em> he recounts: '... there was nothing to do but gasp... for the first time I understood why I had crossed an ocean and two continents, plodding beside my cart these weary months.' Warner, the most visually educated of the archaeologists to visit Tun-huang, found himself stupefied by the tens of thousands of painted figures in the caves.  He confessed: 'I, who had come to attribute dates and glibly to refute the professors and to discover artistic influences, stood in the centre of a chapel with my hands dug deep in my pockets and tried to think.' 
-
-But soon, as he visited cave after cave, another emotion seized him - blind fury.  Two years earlier, four hundred White Russian soldiers who had escaped across the frontier into China had been interned for six months at Tun-huang by the authorities.  Evidence of their frustration and boredom was to be seen everywhere.  Warner wrote angrily to his wife: '... across some of these lovely faces are scribbled the numbers of a Russian regiment, and from the mouth of a Buddha where he sits to deliver the Lotus Law flows some Slav obscenity.' The Russians had done so much damage that the photographs taken by Stein and Nouette were now the sole record of many of the wall-paintings. 'My job', he told his wife, 'is to break my neck to rescue and preserve anything and everything I can from this quick ruin.  It has been stable enough for centuries, bu the end is in sight now.'
-
-Fortuitously, he had arrived armed with a special chemical solution for detaching wall-paintings, which had been successfully pioneered in Italy.  His original intention had been merely to test the solvent and at the same time remove a few small fragments for laboratory analysis.  Even this was something none of his predecessors had dared attempt - inhibited, if not by ethical considerations, then by the policing of the caves by Wang.  However, having seen the destruction wrought by the Cossack soldiers, Warner's scruples vanished.  He wrote: 'As for the morals of such vandalism I would strip the place bare without a flicker.  Who knows when Chinese troops may be quartered here as the Russians were? And, worse still, how long before the Mohameddan rebellion that everyone expects? In 20 years this place won't be worth a visit...' He pointed out that every new pilgrim scratched his name on the paintings or removed a bit of 'trembling plaster'.  
-
-... he still had Abbot Wang to contend with...
-
-... he agreed to part with one old one - a three-foot T'ang figure of a kneeling saint, today one of the most prized items in the Fogg Museum collection.
-
-...
-
-In his letters home Warner asked that no mention be made of the paintings to his sponsors, for he was far from confident that the laboratory would be able to disentangle the gluey cloths from their delicate paint surfaces. (I the event, they rescued eleven of the twelve pictures.)
-
-...
-
-Warner reached Peking safely with his treasures some nine months after he had set out with Jayne the previous autumn.
+>
+>But soon, as he visited cave after cave, another emotion seized him - blind fury.  Two years earlier, four hundred White Russian soldiers who had escaped across the frontier into China had been interned for six months at Tun-huang by the authorities.  Evidence of their frustration and boredom was to be seen everywhere.  Warner wrote angrily to his wife: '... across some of these lovely faces are scribbled the numbers of a Russian regiment, and from the mouth of a Buddha where he sits to deliver the Lotus Law flows some Slav obscenity.' The Russians had done so much damage that the photographs taken by Stein and Nouette were now the sole record of many of the wall-paintings. 'My job', he told his wife, 'is to break my neck to rescue and preserve anything and everything I can from this quick ruin.  It has been stable enough for centuries, bu the end is in sight now.'
+>
+>Fortuitously, he had arrived armed with a special chemical solution for detaching wall-paintings, which had been successfully pioneered in Italy.  His original intention had been merely to test the solvent and at the same time remove a few small fragments for laboratory analysis.  Even this was something none of his predecessors had dared attempt - inhibited, if not by ethical considerations, then by the policing of the caves by Wang.  However, having seen the destruction wrought by the Cossack soldiers, Warner's scruples vanished.  He wrote: 'As for the morals of such vandalism I would strip the place bare without a flicker.  Who knows when Chinese troops may be quartered here as the Russians were? And, worse still, how long before the Mohameddan rebellion that everyone expects? In 20 years this place won't be worth a visit...' He pointed out that every new pilgrim scratched his name on the paintings or removed a bit of 'trembling plaster'.  
+>
+>... he still had Abbot Wang to contend with...
+>
+>... he agreed to part with one old one - a three-foot T'ang figure of a kneeling saint, today one of the most prized items in the Fogg Museum collection.
+>
+>...
+>
+>In his letters home Warner asked that no mention be made of the paintings to his sponsors, for he was far from confident that the laboratory would be able to disentangle the gluey cloths from their delicate paint surfaces. (I the event, they rescued eleven of the twelve pictures.)
+>
+>...
+>
+>Warner reached Peking safely with his treasures some nine months after he had set out with Jayne the previous autumn.
 
 ***Page 223/228***
 > But on May 30, 1925, something happened which no one could have foreseen.  A British police officer in the treaty port of Shanghai, faced by rioting Chinese students who refused to disperse, ordered his men to open fire.  Eleven students died - most of them, it as said, shot in the back.   A wave of anger against foreigners swept across China. Warner, who had recently arrived in Peking at the head of a larger expedition, reported: 'News of the Shanghai shooting on that day travelled like wild-fire through the interior.' Missionaries and other foreigners in remote stations had to be evacuated to the coastal cities.  When Warner's party reached Tun-huang, where they had planned to work for eight months, they were met by a menacing mob of peasant farmers - the same people who had welcomed Warner the previous year.
-
-...
-
-The day of the freebooter was over. From now on, if one dug at all one dug for China. There were few, if any, takers.
+>
+>...
+>
+>The day of the freebooter was over. From now on, if one dug at all one dug for China. There were few, if any, takers.
 
 ***Page 229/230***
 > For the bigger the museum and the more comprehensive its contents, the smaller the space it can devote to any particular collection.  Had Stein been working for the small but ambitious young Fogg Museum, one can imagine the spectacular display his treasures would enjoy today. As it is, one cannot help feeling that he merely dug them up in China only to seem them buried again in Bloomsbury.  There is a strong case, it could be argued, for a museum returning to the country of origin all antiquities - like these = which it has no prospect of putting on display.
-
-... 
-
-The biggest wall-paintings, some of which stood over ten feet high, were alas, cemented to the walls in iron frames.  At that nobody could have foreseen that this would be the direct cause of their destruction some fifteen years later during World War II.  When hostilities broke out, all the movable objects, including the smaller murals and sculptures, were packed away in crates. Some were deposited for safety in the huge bunker in the Berlin zoo, others at the bottom of coal mines in western Germany, while others still were stored in the museum's basement which had been specially reinforced for the purpose. 
-
-The very largest of the wall-paintings could not, however, be moved to safety.  Not only were they cemented firmly into place, but removing them would have meant first cutting them into pieces once gain.  Instead, the museum placed iron covers and sandbags over them tot shield them from the effects of blast.  'Apart from that,' a senior West Berlin museum official told me, 'there was nothing they could do but pray that no harm would befall them.'  Their prayers were not heeded, however.  The museum, which lay close to today's Berlin Wall, was hit no fewer than seven times by Allied bombs between November 23, 1943, and January 15, 1945.  Twenty-eight of the largest wall-paintings - almost all of them from Bezeklik - were totally destroyed after surviving wars, earthquakes and iconoclasts for well over a millenium. All that remains of them today are the plates in von Le Coq's great portfolio of the paintings form his first expedition - and the gaping holes in the walls of the rock-hewn monastery overlooking the Sangim gorge. 
-
-...
-
-Of all the collections I have seen of Chinese Central Asian art - and that includes almost all of them - the one in West Berlin is by far the largest and most imaginatively displayed.  Even the secondary pieces are well displayed in the basement, where they can be seen by arrangement.
-
-...
-
-When the bunker at the zoo, where some of the treasures were stored, fell into the hands of the Russians in 1945, its secrets were quickly discovered.  It is now known that at least eight or nine packing cases of clay sculptures - only the Russians know the exact number - were removed and driven away on lorries...
+>
+>... 
+>
+>The biggest wall-paintings, some of which stood over ten feet high, were alas, cemented to the walls in iron frames.  At that nobody could have foreseen that this would be the direct cause of their destruction some fifteen years later during World War II.  When hostilities broke out, all the movable objects, including the smaller murals and sculptures, were packed away in crates. Some were deposited for safety in the huge bunker in the Berlin zoo, others at the bottom of coal mines in western Germany, while others still were stored in the museum's basement which had been specially reinforced for the purpose. 
+>
+>The very largest of the wall-paintings could not, however, be moved to safety.  Not only were they cemented firmly into place, but removing them would have meant first cutting them into pieces once gain.  Instead, the museum placed iron covers and sandbags over them tot shield them from the effects of blast.  'Apart from that,' a senior West Berlin museum official told me, 'there was nothing they could do but pray that no harm would befall them.'  Their prayers were not heeded, however.  The museum, which lay close to today's Berlin Wall, was hit no fewer than seven times by Allied bombs between November 23, 1943, and January 15, 1945.  Twenty-eight of the largest wall-paintings - almost all of them from Bezeklik - were totally destroyed after surviving wars, earthquakes and iconoclasts for well over a millenium. All that remains of them today are the plates in von Le Coq's great portfolio of the paintings form his first expedition - and the gaping holes in the walls of the rock-hewn monastery overlooking the Sangim gorge. 
+>
+>...
+>
+>Of all the collections I have seen of Chinese Central Asian art - and that includes almost all of them - the one in West Berlin is by far the largest and most imaginatively displayed.  Even the secondary pieces are well displayed in the basement, where they can be seen by arrangement.
+>
+>...
+>
+>When the bunker at the zoo, where some of the treasures were stored, fell into the hands of the Russians in 1945, its secrets were quickly discovered.  It is now known that at least eight or nine packing cases of clay sculptures - only the Russians know the exact number - were removed and driven away on lorries...
