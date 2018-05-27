@@ -1,5 +1,5 @@
 # Albert Speer: The End of a Myth
-## Author
+## Matthias Schmidt
 
 The book thoroughly addresses many of the claims made by Speer in Inside the Third Reich and shows how he went out of his way to distort the truth to present the best image of himself.  There was; however, no smoking gun presented in this book -- his involvement in forced labor and relocation of the jews in Berlin is highlighted, but his involvement in the most egregious crimes is only hinted at.  The main claim that is debunked is that Speer was a politically naive technician. Throughout my reading of the memoir, I too thought that this claim seemed to be a grand deception of an adept politician.
 
