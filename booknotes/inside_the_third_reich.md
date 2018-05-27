@@ -3,9 +3,7 @@
 
 ![Image](images/inside_the_third_reich.jpg)
 
-<a href="http://www.blog.dannygagne.com/wp-content/uploads/2010/07/Lichtdom.jpg"><img class="aligncenter size-medium wp-image-379" title="Lichtdom" src="./Assertion Through Structure_files/Lichtdom-300x192.jpg" alt="" width="300" height="192"></a>
-<p style="text-align: center;"><a href="http://www.blog.dannygagne.com/wp-content/uploads/2010/07/cathedraloflight.png"><img class="aligncenter size-medium wp-image-378" title="cathedraloflight" src="./Assertion Through Structure_files/cathedraloflight-300x176.png" alt="" width="450" height="264"></a></p>
-So I just finished <a href="http://www.amazon.com/gp/product/0923891730?ie=UTF8&amp;tag=dangag-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0923891730">Inside the Third Reich, Memoirs by Albert Speer</a><img style="border: none !important; margin: 0px !important; display: none !important;" src="http://www.assoc-amazon.com/e/ir?t=dangag-20&amp;l=as2&amp;o=1&amp;a=0923891730" border="0" alt="" width="1" height="1"> and was impressed by how great a book it is.  I still need to read from another perspective to more fully develop a portrait of Speer, which I dutifully intend to do. To this end, I purchased Albert Speer: The End of a Myth, to get a slightly less rose colored depiction. Â&nbsp;During my reading, certain passages jumped out at me; I have decided to preserve them below:
+This book provides some remarkable insights into world war 2.  It's also interesting since Speer is not a disinterested narrator. 
 
 ***Page 18***
 >Quite often even the most important step in a man's life, his choice of vocation, is taken quite frivolously.  He does not bother to find out enough about the basis and the various aspects of that vocation. Once he has chosen it, he is inclined to switch off his critical awareness and to fit himself wholly into the predetermined career.
@@ -15,18 +13,19 @@ So I just finished <a href="http://www.amazon.com/gp/product/0923891730?ie=UTF8&
 >I felt myself to be Hitler's architect.  Political events did not concern me.  My job was merely to provide impressive backdrops for such events.  And this view was reinforced daily, for Hitler consulted me almost exclusively on architectural questions.  Moreover, it would have been regarded as self-importance on the part of a man who was pretty much of a latecomer in the party had I attempted to participate in the political discussions.  I felt that there was no need for me to take any political positions at all.  Nazi education, furthermore, aimed at separatist thinking; I was expected to confine myself to the job of building.  The grotesque extent to which I clung to this illusion is indicated by a memorandum of mine to Hitler as late as 1944: "The task I have to fulfill is an unpolitical one. I have felt at ease in my work only so long as my person and my work were evaluated solely by the standard of practical accomplishments."
 ***Page 113***
 >But in the final analysis I myself determined the degree of my isolation, the extremity of my evasions, and the extent of ignorance.
-...
-Those who ask me are fundamentally expecting me to offer justifications.  But I have none.  No apologies are possible.
+>
+>...
+>
+>Those who ask me are fundamentally expecting me to offer justifications.  But I have none.  No apologies are possible.
 ***Page 165***
 >He stuck unswervingly to his opinion that the West was too feeble, too worn out, and too decadent to begin the war seriously.  Probably it was also embarrassing for him to admit to his entourage and above all to himself that he had made so crucial a mistake.  I still remember his consternation when the news came that Churchill was going to enter the British War Cabinet as First Lord of the Admiralty.  With this ill omened press report in his hand, Goering stepped out of the door of Hitler's salon.  He dropped into the nearest chair and said wearily: "Churchill in the Cabinet.  That means that the war is really on.  Now we shall have war with England." From these and other observations I deduced that this initiation of real war was not what Hitler had projected.
 ***Page 204***
 >I prepared a plan of organization whose vertical lines represented individual items, such as tanks, planes, or submarines.  In other words, the armaments for the three branches of the service were included.  These vertical columns were enclosed in numerous rings, each of which was to stand for a group of components needed for all guns, tanks, planes, and other armaments.  Within these rings I considered, for example, the production of forgings or ball bearings or electrical equipment as a whole.  Accustomed as an architect to three-dimensional thinking, I drew this new organizational scheme in perspective.
 ***Page 212***
 >Basically, I exploited the phenomenon of the technician's often blind devotion to his task.  Because of what seems to be the moral neutrality of technology, these people were without any scruples about their activities.  The more technicial the world imposed on us by the war, the more dangerous was the indifference of the technician to the direct consequences of his anonymous activities.
-
-...
-
-The nonparty members of my Ministry enjoyed a legal protection highly unusual in Hitler's state.  For over the objections of the Minister of Justice I had established the principle, right at the beginning of my job, that there would be no indictments for sabotage of armaments except on my motion.  This proviso protected my associates even after July 20, 1944.  Ernst Kaltenbrunner, the Gestapo chief, wanted to indict three general managers, Bucher of the AEG electrical company, Vogler of the United Steel Works, and Reusch of the Gutehoffnungshutte (the mining combine), for "defeatist" conversations. He came to me for authorization.  I pointed out that the nature of our work compelled us to speak candidly about the situation and thus fended off the Gestapo.  On the other hand, I applied severe penalties for abuse of our honor system - if, for example, someone furnished false data in order to hoard important raw materials.  For actions of this sort would result in the withholdings of arms from the front.
+>
+>...
+>The nonparty members of my Ministry enjoyed a legal protection highly unusual in Hitler's state.  For over the objections of the Minister of Justice I had established the principle, right at the beginning of my job, that there would be no indictments for sabotage of armaments except on my motion.  This proviso protected my associates even after July 20, 1944.  Ernst Kaltenbrunner, the Gestapo chief, wanted to indict three general managers, Bucher of the AEG electrical company, Vogler of the United Steel Works, and Reusch of the Gutehoffnungshutte (the mining combine), for "defeatist" conversations. He came to me for authorization.  I pointed out that the nature of our work compelled us to speak candidly about the situation and thus fended off the Gestapo.  On the other hand, I applied severe penalties for abuse of our honor system - if, for example, someone furnished false data in order to hoard important raw materials.  For actions of this sort would result in the withholdings of arms from the front.
 ***Page 213***
 >There were times when I actually regarded theses raids as helpful - witness my ironic reaction to the destruction of the Ministry in the air raid of November 22, 1943: "Although we have been fortunate in that large parts of the current files of the Ministry have burned and so relieved us for a time of useless ballast, we cannot really expect that such events will continually introduce the necessary fresh air into our work."
 ***Page 250, 2nd footnote***
@@ -41,8 +40,10 @@ The nonparty members of my Ministry enjoyed a legal protection highly unusual in
 >From the flak tower the air raids on Berlin were an unforgettable sight, and I had constantly to remind myself of the cruel reality in order not to be completely entranced by the scene: the illumination of the parachute flares, which the Berliners called "Christmas trees," followed by flashes of explosions which were caught by the clouds of smoke, the innumerable probing searchlights, the excitement when a plan was caught and tried to escape the cone of light, the brief flaming torch when it was hit.  No doubt about it, this apocalypse provided a magnificent spectacle.
 ***Page 289***
 >In this way Hitler, too, learned of the blaze, and without making any further inquiries ordered all the fire departments in the vicinity of Berlin to report to the burning tank plant.
-...
-Since a direct order from the Fuehrer had been issued, I could not persuade the chiefs to go on to other urgent fies.  Early that morning the streets in a wide area around the tank factory were jammed with fire engines standing around doing nothing - while the fires spread unchecked in other parts of the city.
+>
+>...
+>
+>Since a direct order from the Fuehrer had been issued, I could not persuade the chiefs to go on to other urgent fies.  Early that morning the streets in a wide area around the tank factory were jammed with fire engines standing around doing nothing - while the fires spread unchecked in other parts of the city.
 ***Page 290***
 >Goering was embarking for Rominten Heath on his special train when Galland came along to bid him good-by.  "What's the idea of telling the Fuehrer that American fighters have penetrated into the territory of the Reich?" Goering snapped at him.
 
