@@ -51,14 +51,14 @@ Sinon, the gifted liar, says it was religious.  Because Ulysses had stolen Miner
 	<li>To all this was added another dimension, also based on a known fact; that Ulysses had made off with the palladium of Minerva (the shrine-image in her temple). So it seemed to make some sense that, to ensure that Minerva would not in anger thwart the Greek plan of withdrawal, they had constructed a giant wooded horse and dedicated it to her.  And to make sure that the Trojans would not take the horse for their own and thereby shift Minerva's favor to themselves, the Greeks had built it so large that it could not be fit through the gates of Troy. (Here is something like Br'er Rabbit's briar patch ploy: fervently assert what you desperately do not want to happen in order to make sure it does happen.)</li>
 </ol>
 >Here then is the new strategy designed by the Greeks:
-><ul>
-	<li>it replaces a problematic and unsuccessful earlier strategy;</li>
-	<li>it takes full advantage of the Greeks' strongest remaining asset;</li>
-	<li>it provides a comprehensive story line which their opponents would be eager to adopt;</li>
-	<li>it is anchored in previously known facts about Greeks;</li>
-	<li>it is in accord with previous assumptions about Greeks;</li>
-	<li>and it is shored up by appropriately related religious practices.</li>
-</ul>
+
+> * it replaces a problematic and unsuccessful earlier strategy;
+> * it takes full advantage of the Greeks' strongest remaining asset;
+> * it provides a comprehensive story line which their opponents would be eager to adopt;
+> * it is anchored in previously known facts about Greeks;
+> * it is in accord with previous assumptions about Greeks;
+> * and it is shored up by appropriately related religious practices.
+
 >All points are covered: individual, societal, divine; historical, military, psychological, emotional, and intellectual. It is carefully phased to unfold over time.  The enemy's suspicions and objections have been foreseen and preemptively neutralized.
 
 **** Page 41/42 ****
