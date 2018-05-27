@@ -1,6 +1,7 @@
 # Grand Strategies
 ## Charles Hill
 
+![Image](images/grand_strategies.jpg)
 
 
 ***Page 4/5***
@@ -42,15 +43,15 @@ Sinon, the gifted liar, says it was religious.  Because Ulysses had stolen Miner
 >The greek grand strategy at the outset was not impressive. Marriage and <em>xenia</em> had been violated when Paris took Helen away. But to launch an expeditionary force to lay siege to a far-off citadel was far from promising.  You would be away from your base.  Your long logistic line could not be maintained and you could not easily live off the invaded land for long.  As Clausewitz would later teach, the defensive position would have the stronger hand.  What were the Greek assets?  Achilles the best fighter and Ulysses/Odysseus the best schemer.  But Achilles was always a problem, and after ten years of war he was killed.  The at left three options: 1) Continue the siege with no hope of success; 2) Quit the war and go home; 3) Try something else: a stratagem of deception. Given the wily Ulysses as an asset, option 3 was the clear choice.
 >
 >Surely the Trojans would anticipate something like this; they new about Ulysses and his reputation for sratagems.  So a plausible - indeed ingenious - context had to be concocted in order to throw the Trojans off the trail:
-<ol>
+><ol>
 	<li>A defector/traitor with an explanation for his turncoat decision: he had lost favor with the inner circle of leadership. This would be believable because the Greeks, a nation lacking unity, were always squabbling and defecting.</li>
 	<li>A second layer of narrative that certainly was true: the Greeks were weary after ten years of war and wanted to go home.</li>
 	<li>A third level, perhaps most compelling of all to the culture of the time and place. Everyone knew that the Greeks at the start of the war had to sacrifice one of their own, Iphigenia, in order to get favorable winds to carry their fleet to Troy.  So the false story that the Delphic oracle required them to carry out another human sacrifice in order to get favorable winds to carry their ships home from Troy instantly made sense to the Trojans.  It made the war into a "ring composition." (In fact, the whole tale Aeneas tells Dido is a contest, ring-composition-style, of sacrifices, six or seven in sequence, like a game of musical chairs, to see which side's sacrifice wins at the end.)</li>
 	<li>Fourth, the Greeks would sacrifice the defector because, after all, he already was out of favor.  This gave added credibility to his story.</li>
 	<li>To all this was added another dimension, also based on a known fact; that Ulysses had made off with the palladium of Minerva (the shrine-image in her temple). So it seemed to make some sense that, to ensure that Minerva would not in anger thwart the Greek plan of withdrawal, they had constructed a giant wooded horse and dedicated it to her.  And to make sure that the Trojans would not take the horse for their own and thereby shift Minerva's favor to themselves, the Greeks had built it so large that it could not be fit through the gates of Troy. (Here is something like Br'er Rabbit's briar patch ploy: fervently assert what you desperately do not want to happen in order to make sure it does happen.)</li>
 </ol>
-Here then is the new strategy designed by the Greeks:
-<ul>
+>Here then is the new strategy designed by the Greeks:
+><ul>
 	<li>it replaces a problematic and unsuccessful earlier strategy;</li>
 	<li>it takes full advantage of the Greeks' strongest remaining asset;</li>
 	<li>it provides a comprehensive story line which their opponents would be eager to adopt;</li>
@@ -58,7 +59,7 @@ Here then is the new strategy designed by the Greeks:
 	<li>it is in accord with previous assumptions about Greeks;</li>
 	<li>and it is shored up by appropriately related religious practices.</li>
 </ul>
-All points are covered: individual, societal, divine; historical, military, psychological, emotional, and intellectual. It is carefully phased to unfold over time.  The enemy's suspicions and objections have been foreseen and preemptively neutralized.
+>All points are covered: individual, societal, divine; historical, military, psychological, emotional, and intellectual. It is carefully phased to unfold over time.  The enemy's suspicions and objections have been foreseen and preemptively neutralized.
 
 **** Page 41/42 ****
 
@@ -67,118 +68,117 @@ All points are covered: individual, societal, divine; historical, military, psyc
 ***Page 44***
 
 >To act in accordance with nature is Hellenic; to subdue nature in the service of the state is Roman.
-...
-Above all, Anchises tells Aeneas, the purpose of gaining power is to create and administer an international system that will crown peace with civilization.
+>
+>...
+>
+>Above all, Anchises tells Aeneas, the purpose of gaining power is to create and administer an international system that will crown peace with civilization.
 
 ***Page 46***
 
 >In complicated diplomatic steps, Aeneas seeks allies. After one effort fails, he concludes a pact with Evander, a tricky business, for Evander is of Greek origin. Associations are starting to form for reasons other than ethnicity or lineage.  Accordingly Virgil enlists the greatest Greek here into the Trojan-Roman cause.  Aeneas becomes a second Hercules, and in the far future, Augustus will be a third Hercules, slaying the monstrous Antony and Cleopatra as hercules slew the monster Cacus.  There is a subtext of civilization versus barbarism here.  Beheading one's enemies is the ultimate savagery. Marc Antony had the murdered Cicero's head displayed on the rostra. Augustus himself had Brutus's head cut off and displayed.  Cacus, a monster who dwelt on the Aventine hill, hung the heads of victims on his gates.  Hercules, for one of his twelve labors, slew Cacus on the future site of Rome, an act filled with Virgilian portent.  Virgil is here calling upon Augustus, who, like Hercules, would have to defeat the enemies of world order and to preside over an international system with wisdom and justice.  In 2001 terrorism was likened to Cerberus, the watchdog of Hades, who in Hercules's twelfth labor sprouted new heads to replace those lopped of.
-
-...
-
-The shield of Achilles depicted a world which cycles in plane, in alternation from peace to war and back again.  In contrast, the shield of Aeneas spirals forward in time, more history than myth - moving upward toward a culmination in the future.  When Aeneas shoulders this shield, he is taking up the burden of the future (in contrast to his shouldering the burden of the past when carrying his father out of Troy).  Aeneas is no longer the son of Anchises; he is about to become the father of his country.  There is no paradox here as there was with the shield of Achilles: Aeneas willingly takes up this visible representation of the grand strategy that will lead to Imperial Rome.  The shield in the <em>Aeneid</em>, like the cutting of trees deep in the forest, tells of what can be told only through literature.
-
-Big-power compromises are tried and fail, a cease-fire is set and then broken.  Finally Jupiter takes a mediating role, and a grand compromise is struck with Juno.  She will give up her efforts to block the Trojan mission to found Rom on condition that the Trojans give up their language, their customs, their national dress, and even the Trojan name itself.  They will remain Trojans despite the loss of their state, but they will have to assimilate to their new land and culture.
-
-The final contest pits two world-historical forces. Turnus represents the heroic code of Achilles: life is brief and death invetible, so extend your fame beyond death by feats of valor.  Aeneas represents a new code: the fight is not for yourself but for civic code, for posterity, and victory is to be followed by magnanimity, generosity, and peaceful reconciliation with your enemy.  The <em>Aeneid</em> is sprinkled with scenes that show the inadequacy and uselessness of the heroic code; now Aeneas himself will endeavor to leave it behind.
+>
+>...
+>
+>The shield of Achilles depicted a world which cycles in plane, in alternation from peace to war and back again.  In contrast, the shield of Aeneas spirals forward in time, more history than myth - moving upward toward a culmination in the future.  When Aeneas shoulders this shield, he is taking up the burden of the future (in contrast to his shouldering the burden of the past when carrying his father out of Troy).  Aeneas is no longer the son of Anchises; he is about to become the father of his country.  There is no paradox here as there was with the shield of Achilles: Aeneas willingly takes up this visible representation of the grand strategy that will lead to Imperial Rome.  The shield in the <em>Aeneid</em>, like the cutting of trees deep in the forest, tells of what can be told only through literature.
+>
+>Big-power compromises are tried and fail, a cease-fire is set and then broken.  Finally Jupiter takes a mediating role, and a grand compromise is struck with Juno.  She will give up her efforts to block the Trojan mission to found Rom on condition that the Trojans give up their language, their customs, their national dress, and even the Trojan name itself.  They will remain Trojans despite the loss of their state, but they will have to assimilate to their new land and culture.
+>
+>The final contest pits two world-historical forces. Turnus represents the heroic code of Achilles: life is brief and death invetible, so extend your fame beyond death by feats of valor.  Aeneas represents a new code: the fight is not for yourself but for civic code, for posterity, and victory is to be followed by magnanimity, generosity, and peaceful reconciliation with your enemy.  The <em>Aeneid</em> is sprinkled with scenes that show the inadequacy and uselessness of the heroic code; now Aeneas himself will endeavor to leave it behind.
 
 ***Page 62***
 
 >It would result in the Edict of Nantes of 1598, giving legal recognition to minority religious rights, and make Henri IV the most revered king in French history.
-
-Montaigne turns inward yet outward at the same time, investigating "the human condition" as universal, recognizing that as religious differences give rise to widening confrontations, there exists a global dimension in which all might be resolved.  Montaigne is one of the first to critique Europe's actions in a global arena.  As Emerson recognized, the report the world that Montaigne gave "was  horizontal, not erect." This was no soft-headed one-worldism; Montaigne mocked the idea of one natural law.  There is no <em>consensus gentium</em>. Contemplation of the diversity of peoples now becoming known to European explorers "will not result in a single conclusion which is inscribed beforehand in the fabric of human nature.  The most that will emerge are the various preferences.  The ultimate consequences of this point of view could not take effect in age that was deeply religious.  But they emerged more and more with every weakening of the religious tie and every consequent growth of materialist beliefs.
+>
+>Montaigne turns inward yet outward at the same time, investigating "the human condition" as universal, recognizing that as religious differences give rise to widening confrontations, there exists a global dimension in which all might be resolved.  Montaigne is one of the first to critique Europe's actions in a global arena.  As Emerson recognized, the report the world that Montaigne gave "was  horizontal, not erect." This was no soft-headed one-worldism; Montaigne mocked the idea of one natural law.  There is no <em>consensus gentium</em>. Contemplation of the diversity of peoples now becoming known to European explorers "will not result in a single conclusion which is inscribed beforehand in the fabric of human nature.  The most that will emerge are the various preferences.  The ultimate consequences of this point of view could not take effect in age that was deeply religious.  But they emerged more and more with every weakening of the religious tie and every consequent growth of materialist beliefs.
 
 ***Page 68/69***
 
 >The Iliadic Greek warrior Odysseus - "Ulysses" in Shakespeare -  declares that the established ways are coming apart. Rank-oder and established hierarchy have lost respect.  The cosmos itself is in disarray "The specialty of rule hath been neglected":
 
 >Observe degree, priority, and place,
-Insisture, course, proportion, season, form
-Office and custom, in all line of order ....
-But when the planets
-In evil mixture to disorder wander
-What plagues and what portents, what mutiny
-What raging of the ea, shaking of earth
-Commotion in the winds, frights, changes, horrors
-Divert and crack, rend and deracinate
-The unity and married calm of states.
-Theatergoers might assume that Shakespeare was decrying the decay of the traditional structure.  It's not that simple.  <em>Troilus and Cressida</em> is a relentlessly intellectual examination of statecraft, a sour and often cynical work which furthers the demolition of the old courtly, chivalric, and hierarchical system. We may admire the Trojans, who exemplify the brave and noble past, and we may be revolted by the Machiavellian Greeks and their caustic "reason," but this, Shakespeare tells us, is how it's going to be; something new will be needed to replace the collapse of the old order.
+>Insisture, course, proportion, season, form
+>Office and custom, in all line of order ....
+>But when the planets
+>In evil mixture to disorder wander
+>What plagues and what portents, what mutiny
+>What raging of the ea, shaking of earth
+>Commotion in the winds, frights, changes, horrors
+>Divert and crack, rend and deracinate
+>The unity and married calm of states.
+>Theatergoers might assume that Shakespeare was decrying the decay of the traditional structure.  It's not that simple.  <em>Troilus and Cressida</em> is a relentlessly intellectual examination of statecraft, a sour and often cynical work which furthers the demolition of the old courtly, chivalric, and hierarchical system. We may admire the Trojans, who exemplify the brave and noble past, and we may be revolted by the Machiavellian Greeks and their caustic "reason," but this, Shakespeare tells us, is how it's going to be; something new will be needed to replace the collapse of the old order.
 
 ***Page 70/71***
 
 >Diplomacy having failed to win Achilles' return to the Greek forces, Ulysses contrives a modern ploy - to ignore him while advancing the Machiavellian maxim that reputation matters more than reality.  Achilles and Patroclus stand at the entrance to their tent; Agamemnon and Ulysses pretend to ignore them. Achilles:
-
+>
 >What, comes the general to speak with me?
-You know my mind: I'll fight no more 'gainst Troy
-They ignore him. Achilles calls out to Ulysses, "What are you reading?" A clever Shakespearean twist: an Illiadic warrior reading a book.  Ulysses is perusing a Platonic dialogue which argues:
-
+>You know my mind: I'll fight no more 'gainst Troy
+>They ignore him. Achilles calls out to Ulysses, "What are you reading?" A clever Shakespearean twist: an Illiadic warrior reading a book.  Ulysses is perusing a Platonic dialogue which argues:
+>
 >That no man is the lord of anything
-Though in and of him that be much consisting,
-Till he communicate his parts to others.
-Deeds, Achilles is made to understand, are discounted if no new ones are forthcoming.  Achilles having taken himself out of combat, the Greeks will turn to Ajax as their champion.
+>Though in and of him that be much consisting,
+>Till he communicate his parts to others.
+>Deeds, Achilles is made to understand, are discounted if no new ones are forthcoming.  Achilles having taken himself out of combat, the Greeks will turn to Ajax as their champion.
 
 ***Page 77***
 
 >Before the Thirty Years' War there were hundreds of small political units in Europe, overlaid by various degrees of imperial power. A state-making process had been under way for a few hundred years, its key attributes being strong central sovereignty and clearly demarcated borders. Only in Germany, where the Holy Roman Empire blocked the modern state, and in Italy, where small city-states resisted political aggregation, was the state-making process immobilized.  The Thirty Years' War would change this, its seemingly endless horrors demanding new ideas and new modes of behavior.  Hugo de Groot, called Grotius, published his seminal work <em>Dejure Belli ac Pacis (The Law of War and Peace)</em> in 1625.  He wrote it, he said, "to assuage, as far as I could, that savagery, unworthy of Christians, and even of men, in making and waging war" - the bestial scenes he saw in the early stages of the Thirty Years' War.
-
-...
-
-It would be recognized as the first treatise of international law, a work called into being by the profoundly felt need to establish some accepted limits on the use of force in wartime.
+>
+>...
+>
+>It would be recognized as the first treatise of international law, a work called into being by the profoundly felt need to establish some accepted limits on the use of force in wartime.
 
 ***Page 79***
 
->The Thirty Years' War marked a transition from feudal to modern warfare.  New technologies of killing and the devastation of whole civilian populations led Grotius to state principles of "law
-to govern operations in international combat. Grotius accepted war as a fact of human existence and assumed that the warring parties would be legitimate states, not governments (governments would change while states remained), each willing to abide by international law as an institution of international society. Not to do so would be "uncivilized."
-
-This was the first expression of the doctrine of the equality of states, a cornerstone of the international state system. The state would  provide a stable basis of legitimacy beyond religious allegiance and in a secular public sphere. Grotius made modern an ancient perception - that the diversity of world's peoples are nonetheless an universal society, a "family of nations," or as is said today, "an international community." His concept is in opposition to Machiavelli's and would be a rival to that Hobbes.
+>The Thirty Years' War marked a transition from feudal to modern warfare.  New technologies of killing and the devastation of whole civilian populations led Grotius to state principles of "law to govern operations in international combat. Grotius accepted war as a fact of human existence and assumed that the warring parties would be legitimate states, not governments (governments would change while states remained), each willing to abide by international law as an institution of international society. Not to do so would be "uncivilized."
+>
+>This was the first expression of the doctrine of the equality of states, a cornerstone of the international state system. The state would  provide a stable basis of legitimacy beyond religious allegiance and in a secular public sphere. Grotius made modern an ancient perception - that the diversity of world's peoples are nonetheless an universal society, a "family of nations," or as is said today, "an international community." His concept is in opposition to Machiavelli's and would be a rival to that Hobbes.
 
 ***Page 85/86***
 
 >... Schiller also portrays the crises of legitimacy of the traditional policy.  The once well-ordered system of governance has become confused and crumbling; anonymous new forces are at work and out of control.  Schiller himself is sternly on the side of duty and loyalty and law. Neither the emperor whom Wallenstein serves nor his own troops can understand or accept an alliance with Sweden.  Wallenstein falls because he fails to reconcile his absolute, ideal good with the bond of trust that holds society together.  he is guilty of not truly standing for the great cause with which he is associated.  True only to himself, he betrays himself.
-
-...
-
-After seven years and two sets of negotiations, the Treaty of Westphalia was signed on October 24, 1648, on the thirty-year anniversary of Defenestration of Prague.  For a believer in the Great Dates of History, 1648 mars the founding of the modern world order, the year in which the traditional concept of peace as a universal phenomenon in God's keeping was replaced by the idea of peace as a relationship between states.  The key was a change in the idea of war.  Religion had been the center of the struggle to manage world affairs and so produced ever bloodier wars of religion until the Thirty Years' War provoked what would be called the "The Great Separation" of political and theological thought, institutionalized by the negotiators at Westphalia as the need to keep religion out of international politics.  According to the Victorian historian Lecky, it worked: "Wars that were once regarded as simple duties became absolutely impossible.  Alliances that were once deemed atrocious since became habitual and unchallenged.  That which had long been the centre around which all other interests revolved, receded and disappeared, and a profound change in the actions of mankind indicated a profound change in their belief."  This would largely hold true until the late twentieth centure.  Adolf Hitler admired Wallenstein's ambition to pursue a statecraft beyond German borders. Hitler would not be a<em> Grenzpolitier</em>, he said, but a <em>Raumpolitiker</em>: he would wage war not merely to regain lost German lands but to acquire vast territories beyond.  And would, he declared, impose his peace at Munster in Westphalia - to mark the end of the international state system created in 1648.
+>
+>...
+>
+>After seven years and two sets of negotiations, the Treaty of Westphalia was signed on October 24, 1648, on the thirty-year anniversary of Defenestration of Prague.  For a believer in the Great Dates of History, 1648 mars the founding of the modern world order, the year in which the traditional concept of peace as a universal phenomenon in God's keeping was replaced by the idea of peace as a relationship between states.  The key was a change in the idea of war.  Religion had been the center of the struggle to manage world affairs and so produced ever bloodier wars of religion until the Thirty Years' War provoked what would be called the "The Great Separation" of political and theological thought, institutionalized by the negotiators at Westphalia as the need to keep religion out of international politics.  According to the Victorian historian Lecky, it worked: "Wars that were once regarded as simple duties became absolutely impossible.  Alliances that were once deemed atrocious since became habitual and unchallenged.  That which had long been the centre around which all other interests revolved, receded and disappeared, and a profound change in the actions of mankind indicated a profound change in their belief."  This would largely hold true until the late twentieth centure.  Adolf Hitler admired Wallenstein's ambition to pursue a statecraft beyond German borders. Hitler would not be a<em> Grenzpolitier</em>, he said, but a <em>Raumpolitiker</em>: he would wage war not merely to regain lost German lands but to acquire vast territories beyond.  And would, he declared, impose his peace at Munster in Westphalia - to mark the end of the international state system created in 1648.
 
 ***Page 97***
 
 >Cromwell's personal motto was <em>Pax Quaeritur Bello</em>, let peace be sough through war. Milton's ode contained the to-be-famous line:
-
+>
 >Peace hath her victories
-No less renown'd than war.
+>No less renown'd than war.
 
 
 **** Page 98/99 ****
 
 >The poem builds upon the Westphalian conclusion: keep religion out of affairs of state. In <em>Paradise Lost</em>, Milton may even be saying that God, once his plan is achieved, will abdicate as Cromwell gives up the kingship, as there will be no more need for hierarchical authority.
-
+>
 >Then thou thy regal scepter shalt lay by,
-For regal scepter then no more shall need,
-God shall be all in all.
-Satan, in <em>Paradise Lost</em>, describes Cromwell as a revolutionary against divine rule and the founder of parliamentary government.
-
-...
-
-The foundations of two opposing grand strategies now seem to be in place: God's expansiveness, aimed at self-reflection, assessment, and rectification; Satan's antagonistic defiance and self-regard.  One aims at tempering power, the other at regaining, accumulating, and aggrandizing power.
+>For regal scepter then no more shall need,
+>God shall be all in all.
+>Satan, in <em>Paradise Lost</em>, describes Cromwell as a revolutionary against divine rule and the founder of parliamentary government.
+>
+>...
+>
+>The foundations of two opposing grand strategies now seem to be in place: God's expansiveness, aimed at self-reflection, assessment, and rectification; Satan's antagonistic defiance and self-regard.  One aims at tempering power, the other at regaining, accumulating, and aggrandizing power.
 
 
 ***Page 109/110***
 
 >Marriage is the fundamental, prepolitical unit, as Aristotle explained to us.  The private bond is the basis of the public good. The marriage of Adam and Eve will be the foundation stone of the republic.
-
-At the end of the poem, Milton looks back at the Israelites on their journey in the wilderness --  their exodus to freedom.  Israel is the model republic of biblical times.  With the English republic gone, the Puritans would conduct their own exodus, their passage to the promised land of political reality of all Europe, including Britain, was being transformed by the rise of centralized political authority, just as Hobbes would have it.  It was just then that the republican American polity took root in new England as a system not of centralized sovereign power but of a separation of powers, a republic such as Milton had envisioned. 
-
-...
-
-The link between <em>Paradise Lost</em> and America has endlessly intrigued critics: if America had not been discovered, <em>Paradise Lost</em> would not have been written.  America, the very idea of it, is transgressive, an upsetting, ongoing challenge to the way the Old World understood God's plan.  The "logic chain" starts with Dante's <em>Inferno</em>, canto 26, when Ulysses sails out beyond the Pillars of Hercules, the limits of the known world, and for his effrontery, perishes with his entire crew.  Columbus's voyages conveyed the idea of an earthly paradise; perhaps Saint Augustine was wrong and Joachim of Fiore's "Third Age" of heaven on earth was correct.  Montaigne's cannibals and Shakespeare's Calibans present a dark and primitive dimension but perhaps a more authentic one.
-
-...
-
-In <em>Paradise Lost </em>the options were A) to refrain from seeking knowledge and obey God, or B) to disobey and go for the fruit of the tree of knowledge.  Somewhere in this European sense of what the New World meant to the human condition may be the source of what by now has emerged as centuries of anti-Americanism.  But for Milton it may be that the objective of his grand strategy is realized in the United Sates of America, which is a new Eden, a new man and woman, and a paradise lost - all set in the idea of history as "going someplace."
-
-The peace settlement put forward at the Westphalia in 1648 challenged "Empire" as the preeminent form of governance. Increasingly, the state would be recognized as the basic component of what would become the international system of states, eventually adopted in every part of the world.  But what <em>kind</em> of state?  A state is a form or structure for governance; what would fill the form could vary widely. 
-
-
+>
+>At the end of the poem, Milton looks back at the Israelites on their journey in the wilderness --  their exodus to freedom.  Israel is the model republic of biblical times.  With the English republic gone, the Puritans would conduct their own exodus, their passage to the promised land of political reality of all Europe, including Britain, was being transformed by the rise of centralized political authority, just as Hobbes would have it.  It was just then that the republican American polity took root in new England as a system not of centralized sovereign power but of a separation of powers, a republic such as Milton had envisioned. 
+>
+>...
+>
+>The link between <em>Paradise Lost</em> and America has endlessly intrigued critics: if America had not been discovered, <em>Paradise Lost</em> would not have been written.  America, the very idea of it, is transgressive, an upsetting, ongoing challenge to the way the Old World understood God's plan.  The "logic chain" starts with Dante's <em>Inferno</em>, canto 26, when Ulysses sails out beyond the Pillars of Hercules, the limits of the known world, and for his effrontery, perishes with his entire crew.  Columbus's voyages conveyed the idea of an earthly paradise; perhaps Saint Augustine was wrong and Joachim of Fiore's "Third Age" of heaven on earth was correct.  Montaigne's cannibals and Shakespeare's Calibans present a dark and primitive dimension but perhaps a more authentic one.
+>
+>...
+>
+>In <em>Paradise Lost </em>the options were A) to refrain from seeking knowledge and obey God, or B) to disobey and go for the fruit of the tree of knowledge.  Somewhere in this European sense of what the New World meant to the human condition may be the source of what by now has emerged as centuries of anti-Americanism.  But for Milton it may be that the objective of his grand strategy is realized in the United Sates of America, which is a new Eden, a new man and woman, and a paradise lost - all set in the idea of history as "going someplace."
+>
+>The peace settlement put forward at the Westphalia in 1648 challenged "Empire" as the preeminent form of governance. Increasingly, the state would be recognized as the basic component of what would become the international system of states, eventually adopted in every part of the world.  But what <em>kind</em> of state?  A state is a form or structure for governance; what would fill the form could vary widely. 
 
 ***Page 116***
 
@@ -188,85 +188,76 @@ The peace settlement put forward at the Westphalia in 1648 challenged "Empire" a
 ***Page 118/119***
 
 >[Kant] ]With this came "critique" - reason contesting against reason to challenge the foundations of Western civilization, making it the only civilization in history whose major artists and intellects have radically questioned or rejected its core values.
-
-The Enlightenment challenged three matters of significance:
-
-<em>Diplomacy</em>: Would diplomacy be taken seriously as the legitimate mechanism for managing internal disputes?
-<em>War and Peace</em>: Is peace the overarching goal which the international system approaches, however imperfectly?
-<em>Religion</em>: What, if anything, would be the role of religion in the international state system?
-
-Jean-Jacques Rousseau, who declared the international realm beyond his comprehension, did more than any thinker to shape it: by legitimating the authoritarian state; by inciting revolution against established order; and by mocking diplomacy as a problem-solving method.
-
-...
-
-[Venice] With its imperial power in decline, challenged by Islam, Venetian statecraft sought to define the social, economic, and political boundaries of the state and to strengthen those boundaries against outsiders.  Ultimately, Venice failed to become a modern sate because of its inability to define and defend the first principle of sovereign statehood: clear borders.
-
-...
-
-Rousseau portrays diplomacy as a farcical game.  His prose is light and frothy, corresponding to his critical aim of delegitimizing the sate, the international system, and the civilization they serve.
-
-
+>
+>The Enlightenment challenged three matters of significance:
+>
+><em>Diplomacy</em>: Would diplomacy be taken seriously as the legitimate mechanism for managing internal disputes?
+><em>War and Peace</em>: Is peace the overarching goal which the international system approaches, however imperfectly?
+><em>Religion</em>: What, if anything, would be the role of religion in the international state system?
+>
+>Jean-Jacques Rousseau, who declared the international realm beyond his comprehension, did more than any thinker to shape it: by legitimating the authoritarian state; by inciting revolution against established order; and by mocking diplomacy as a problem-solving method.
+>
+>...
+>
+>[Venice] With its imperial power in decline, challenged by Islam, Venetian statecraft sought to define the social, economic, and political boundaries of the state and to strengthen those boundaries against outsiders.  Ultimately, Venice failed to become a modern sate because of its inability to define and defend the first principle of sovereign statehood: clear borders.
+>
+>...
+>
+>Rousseau portrays diplomacy as a farcical game.  His prose is light and frothy, corresponding to his critical aim of delegitimizing the sate, the international system, and the civilization they serve.
 
 ***Page 122/123/124/125***
 
 >In his "Discourse on the Origins of Inequality," Rousseau declares that there never has been, nor is there now, a legitimate government.  Nor will there ever be a legitimate polity on earth until rousseau's guidelines are followed.  Rousseau elaborates on these in his <em>Social Contract</em>. Each must "give all to all." Only then will "The People" be created (before this there were "people," but not "The People"). And The People's attribute would be The General Will, which would be all-determinative, although initially it would need to be guided by an exceptional genius - The Legislator, that is - someone as brilliant and unconstrained as Jean-Jacques Rousseau.
-
-Here were the foundations for the idea, later developed not in witty insouciance but all grim earnestness, that all of Western civilization is an oppressive fraud and that some "Maximum Leader" or "Great Helmsman" will be needed to steer The People toward utopia on earth.  And those who disagree? Well, as rousseau writes in his <em>Social Contract</em>, they "will be forced to be free."   Humanity has been plagued by this version of the grand strategy idea ever since Jean-Jacques Rousseau wrote it down, in all his charmingly lighthearted, smiling, and cynical self-satisfaction.
-
-...
-
-Kant's brief essay "What Is Enlightenment?" explained that through Enlightenment, mankind would leave its "self-imposed immaturity"; that is give up any and all "foundations" - religion, tradition, and the like - that previously gave moral and intellectual guidance.  With the mind liberated in this way, old problems could be though anew.  Observation and reason would suffice to work out every issue from the ground up, <em>ab initio</em>.  Kant's famous part in this effort was his "categorical imperative," a thinking-through of what might qualify as rightful human action without reference to outside authority. 
-
-Kant, admirably, took up the challenge of doing the same for international life.  Political philosophers had previously devoted themselves to the quests for justice and good governance <em>inside</em> the borders of the political entity - polis, city-state, nation.  The space beyond the borders of the sovereign states was ungoverned and unphilosophized about; Grotius's vision was as yet unrealized.  The vast external realm was anarchic and could be survived only through the accumulation and wielding of power. 
-
-Hobbes regarded the international arena as ruled by the "law of nature" - nasty and brutish - and like Rousseau, he declared that his philosophy could not extend so far.  Hobbes and Rousseau provided links in what Peter Gay called the great chain of treatises in political theory that began with Plato's <em>Republic</em>. All were attempts to provide a modern basis for governance within the boundaries of a political community; internal affairs were beyond them.
-
-...
-
-In <em>Perpetual Peace</em>, Kant thinks through the questions of international order without any reference to the Treaty of Westphalia or any other supposedly foundational principle supplied by the past, concluding by reasoning alone that yes the state is the basic unit of the international system.  He then adds a new element as structurally essential: government by consent of the governed.  
-
-...
-
-Ideally, it would seem that one universal, cosmopolitan government should arise for all the world, but politically that wouldn't work, because peoples and their lands vary so widely.  There is no realistic possibility of global governance.
-
-But the idealistic and the realistic, and the moral and the political, factors can yield an agreement on something. All human beings desire justice.  For people to obtain justice, Kant says, there needs to be "publicity." Today it is called "transparency."  The governed need to know what the government is doing. This means that the best form of government is a republic: a state in which sovereignty belongs to the people and which is administered by officials who in some real way are  representative of, and answerable to, the people.
-
-Then we turn to Kant's arguments in his "Definitive Articles, " in which the points made in the Supplements are translated into political recommendations. A republic is the best form of government not only because it is the best able to ensure justice for its citizens but also because it will act against inclinations to go to war.  A king, Kant says, can simply order his army to march against a rival kingdom.  But a republic's citizens will have a say in any such decisions.  And because it is they who will provide soldiers, they will have a braking effect on the implementation of war plans. 
-
-If this is so, then the more republics, the better.  An association of republics would be better still, because then the trend would be stronger for peace than war.
-
-States also will be connected by mutual self-interest.  Kant makes a utilitarian argument: "The spirit of commerce sooner or later takes hold of every people, and it cannot exist side by side with war .... Thus states find themselves compelled to promote the noble cause of peace, though not exactly from motives of morality."  Put this together with the peaceful propensities of the individual republics and the world might be pointed toward the goal of "perpetual peace."
-
-Kant's concepts amount to a form of grand strategy for an international system seeking world order, peace, justice and progress.
-
-
+>
+>Here were the foundations for the idea, later developed not in witty insouciance but all grim earnestness, that all of Western civilization is an oppressive fraud and that some "Maximum Leader" or "Great Helmsman" will be needed to steer The People toward utopia on earth.  And those who disagree? Well, as rousseau writes in his <em>Social Contract</em>, they "will be forced to be free."   Humanity has been plagued by this version of the grand strategy idea ever since Jean-Jacques Rousseau wrote it down, in all his charmingly lighthearted, smiling, and cynical self-satisfaction.
+>
+>...
+>
+>Kant's brief essay "What Is Enlightenment?" explained that through Enlightenment, mankind would leave its "self-imposed immaturity"; that is give up any and all "foundations" - religion, tradition, and the like - that previously gave moral and intellectual guidance.  With the mind liberated in this way, old problems could be though anew.  Observation and reason would suffice to work out every issue from the ground up, <em>ab initio</em>.  Kant's famous part in this effort was his "categorical imperative," a thinking-through of what might qualify as rightful human action without reference to outside authority. 
+>
+>Kant, admirably, took up the challenge of doing the same for international life.  Political philosophers had previously devoted themselves to the quests for justice and good governance <em>inside</em> the borders of the political entity - polis, city-state, nation.  The space beyond the borders of the sovereign states was ungoverned and unphilosophized about; Grotius's vision was as yet unrealized.  The vast external realm was anarchic and could be survived only through the accumulation and wielding of power. 
+>
+>Hobbes regarded the international arena as ruled by the "law of nature" - nasty and brutish - and like Rousseau, he declared that his philosophy could not extend so far.  Hobbes and Rousseau provided links in what Peter Gay called the great chain of treatises in political theory that began with Plato's <em>Republic</em>. All were attempts to provide a modern basis for governance within the boundaries of a political community; internal affairs were beyond them.
+>
+>...
+>
+>In <em>Perpetual Peace</em>, Kant thinks through the questions of international order without any reference to the Treaty of Westphalia or any other supposedly foundational principle supplied by the past, concluding by reasoning alone that yes the state is the basic unit of the international system.  He then adds a new element as structurally essential: government by consent of the governed.  
+>
+>...
+>
+>Ideally, it would seem that one universal, cosmopolitan government should arise for all the world, but politically that wouldn't work, because peoples and their lands vary so widely.  There is no realistic possibility of global governance.
+>
+>But the idealistic and the realistic, and the moral and the political, factors can yield an agreement on something. All human beings desire justice.  For people to obtain justice, Kant says, there needs to be "publicity." Today it is called "transparency."  The governed need to know what the government is doing. This means that the best form of government is a republic: a state in which sovereignty belongs to the people and which is administered by officials who in some real way are  representative of, and answerable to, the people.
+>
+>Then we turn to Kant's arguments in his "Definitive Articles, " in which the points made in the Supplements are translated into political recommendations. A republic is the best form of government not only because it is the best able to ensure justice for its citizens but also because it will act against inclinations to go to war.  A king, Kant says, can simply order his army to march against a rival kingdom.  But a republic's citizens will have a say in any such decisions.  And because it is they who will provide soldiers, they will have a braking effect on the implementation of war plans. 
+>
+>If this is so, then the more republics, the better.  An association of republics would be better still, because then the trend would be stronger for peace than war.
+>
+>States also will be connected by mutual self-interest.  Kant makes a utilitarian argument: "The spirit of commerce sooner or later takes hold of every people, and it cannot exist side by side with war .... Thus states find themselves compelled to promote the noble cause of peace, though not exactly from motives of morality."  Put this together with the peaceful propensities of the individual republics and the world might be pointed toward the goal of "perpetual peace."
+>
+>Kant's concepts amount to a form of grand strategy for an international system seeking world order, peace, justice and progress.
 
 ***Page 127***
 
 >Gibbon's paragraphs, chapters, and volumes demonstrate his ability to master vast amounts of material over great expanses of space and time.  As one astute reader noted of Gibbon, "However far his eye may range, the clue is always firmly in his fingers, and the conclusion of the third volume was in draft before the first volume was written. This is the mark of an epic.  An epic, it has been said, is a work of seriousness, amplitude (that's a Gibbonian word), and inclusiveness, an exercise of willpower over material, and an expression of the sense of an entire period or culture.  If Virgil is the epic of Rome, if Dante is the epic of Christendom, if Milton is the epic of the Renaissance and Reformation, Gibbon is the epic of the Enlightenment.  His work is universal, secular, skeptical, rational, and ironic - and eager to reveal the errors, misdeeds, failures, and deceptions of the past.  
 
-
 ***Page 129***
 
 >And once in power, Gibbon says, Christianity's bigotry turned inward, splintering the Christian world into irreconcilable antagonist sects.  For Gibbon, society, nature, and humanity, the love of pleasure and of action, tempered by reason and moderation, are the sources of happiness and virtue.  But it was not in this world that the Christians wanted to make themselves useful or agreeable.  Gibbon professed, ironically, to be surprised when his chapters on Christianity caused an uproar.  He had thought, he declared, "that an age of light and liberty would receive, without scandal, an inquiry into the human causes of the process and establishment of Christianity."
-
-...
-
-Cicero gave Gibbon a glimpse of what politics should strive to create: a republic.  When he read Cicero, "I breathed the spirit of freedom, and I imbibed from his precepts and examples the public and private sens of a man." ... Cicero sets out an ideal of excellence and insists that the ideal can be realized through a self-imposed discipline in which the passions are subjected to the control of reason.  At one extreme is the oppression of tyranny; at the other is the anarchy of perfect equality.  The best lies in the balance of freedom and justice in conditions of order.  So Gibbon arrived at the same conclusion as Kant, but from a different angle: a republic is the best form of government for a state.
- 
-
+>
+>...
+>
+>Cicero gave Gibbon a glimpse of what politics should strive to create: a republic.  When he read Cicero, "I breathed the spirit of freedom, and I imbibed from his precepts and examples the public and private sens of a man." ... Cicero sets out an ideal of excellence and insists that the ideal can be realized through a self-imposed discipline in which the passions are subjected to the control of reason.  At one extreme is the oppression of tyranny; at the other is the anarchy of perfect equality.  The best lies in the balance of freedom and justice in conditions of order.  So Gibbon arrived at the same conclusion as Kant, but from a different angle: a republic is the best form of government for a state.
 
 ***Page 130/131***
 
 >If any religion can be admired by an Enlightenment savant, Gibbon seems to say, it is Islam, which is rooted in reason:
- 
-
+> 
 >The creed of Mahomet is free from suspicion or ambiguity; and the koran is a glorious testimony to the unity of God.  The prophet of Mecca rejected the worship of idols and men, of satars and planets, on the rational principle that whatever rises must set, that whatever is born must die, that whatever is corruptible must decay and perish.  In the Author of the universe his rational enthusiasm confessed and adored an infinite and eternal being, without form or place, without issue or similitude, present to our most secret thoughts, existing by the necessity of his own nature, and deriving from himself all moral and intellectual perfection.  These sublime truths, thus announced in the language of the prophet, are firmly held by his disciples, and defined with metaphysical precision by the interpreters of the Koran.  A philosophic theist might subscribe to the popular creed of Mohammedans: a creed to sublime perhaps for our present faculties.
-
-Islam is the admirable counterexample to Gibbon's indictment of Christianity, and he uses "Mahomet" to represent the Muslim state.  Here was a religion with a human founder, without monks or priests, that demanded simplicity and resisted complication, organizationally loose, so that human progress would not be obstructed as the Christian church had done.  Islam was to Gibbon " a model of that judicious blend between rationally demonstrable verity and socially useful prejudice which is the best can be hoped for in a religion."
-
-Gibbon's appreciation of Muhammad and Islam is praiseworthy at a time when Catholics and Protestants were vying to demonize Christianity's nearest alternative faith.  But Gibbon's exalted proses masks his use of Islam merely as a foil in his anti-Christian polemic.  He certainly had great success in debunking Christianity in the Europe of today, but his picture of a non-"priest-ridden" Islam is no longer recognizable in the Imam-, Mullah-, and Ayatollah-ruled Muslim world. Something in the practices of that world has turned out to "obstruct human progress" more effectively than Gibbon ever accused Christianity of doing.
-
+>
+>Islam is the admirable counterexample to Gibbon's indictment of Christianity, and he uses "Mahomet" to represent the Muslim state.  Here was a religion with a human founder, without monks or priests, that demanded simplicity and resisted complication, organizationally loose, so that human progress would not be obstructed as the Christian church had done.  Islam was to Gibbon " a model of that judicious blend between rationally demonstrable verity and socially useful prejudice which is the best can be hoped for in a religion."
+>
+>Gibbon's appreciation of Muhammad and Islam is praiseworthy at a time when Catholics and Protestants were vying to demonize Christianity's nearest alternative faith.  But Gibbon's exalted proses masks his use of Islam merely as a foil in his anti-Christian polemic.  He certainly had great success in debunking Christianity in the Europe of today, but his picture of a non-"priest-ridden" Islam is no longer recognizable in the Imam-, Mullah-, and Ayatollah-ruled Muslim world. Something in the practices of that world has turned out to "obstruct human progress" more effectively than Gibbon ever accused Christianity of doing.
 
 ***Page 133***
 
@@ -279,13 +270,12 @@ Gibbon's appreciation of Muhammad and Islam is praiseworthy at a time when Catho
 ***Page 148/149***
 
 >Within the immensely rich text of the Farewell Address [Washington's]  can be found, or felt, virtually every major concept expressed in the literature of statecraft.  First, the fear, well expressed by Thucydides, that popular (that is, direct) democracy is liable to break down into bitter factionalism: "The baneful effects of the spirit of party ... exist under different shapes in all governments, more or less stifled, controlled, or repressed, but in those of the popular form, it is seen in its greatest rankness and is truly their worst enemy." Second, unchecked popular democracy's tendency swiftly and heedlessly to propel the country into war without good cause. There is a healthy Hamiltonian suspicion of Kant's faith in the peacefulness of republics.  
-
-Hobbes's "realism" also lurks here.  Every state on the international scene may be expected to strive ceaselessly to increase its power in order to advance its particular interests.  Madison and Hamilton, in <em>Federalist Papers</em> 9,10, and 51, had devised a system to operate <em>within</em> the United Satesto provide security, order, justice, and energy.  (Would it work? Washington's address answers: experience will tell us.) Outside the nation's borders however, a power struggle will go on.  "There can be no greater error than to expect or calculate upon real favors from nation to nation, " Washington  says, and "against the insidious wiles of foreign influence (I conjure you to believe me, fellow-citizens) the jealousy of a free people out to be constantly awake."
-
-...
-
-In this founding text of American Idealism, Washington concludes that America "will be worthy of a free, enlightened, and at no distant period, a great nation, to give mankind the magnanimous and too novel example of a people always guided by exalted justice and benevolence."
-
+>
+>Hobbes's "realism" also lurks here.  Every state on the international scene may be expected to strive ceaselessly to increase its power in order to advance its particular interests.  Madison and Hamilton, in <em>Federalist Papers</em> 9,10, and 51, had devised a system to operate <em>within</em> the United Satesto provide security, order, justice, and energy.  (Would it work? Washington's address answers: experience will tell us.) Outside the nation's borders however, a power struggle will go on.  "There can be no greater error than to expect or calculate upon real favors from nation to nation, " Washington  says, and "against the insidious wiles of foreign influence (I conjure you to believe me, fellow-citizens) the jealousy of a free people out to be constantly awake."
+>
+>...
+>
+>In this founding text of American Idealism, Washington concludes that America "will be worthy of a free, enlightened, and at no distant period, a great nation, to give mankind the magnanimous and too novel example of a people always guided by exalted justice and benevolence."
 
 ***Page 159***
 
@@ -294,86 +284,75 @@ In this founding text of American Idealism, Washington concludes that America "w
 ***Page 162***
 
 >[Lincoln]
-All creation is a mine, and every man, a miner.
-the whole earth, and all <em>within</em> it, <em>upon</em> it, and <em>round about</em> it, 
-including <em>himself</em> in his physical, moral, and intellectual 
-nature, and his susceptibilities, are the infinitely 
-various "leads" from which, man , from the first, was to
-dig out his destiny.
-In the beginning, the mine was unopened, and the miner stood
-<em>naked</em>, and <em>knowledgeless</em>, upon it
-
+>All creation is a mine, and every man, a miner.
+>the whole earth, and all <em>within</em> it, <em>upon</em> it, and <em>round about</em> it, 
+>including <em>himself</em> in his physical, moral, and intellectual 
+>nature, and his susceptibilities, are the infinitely 
+>various "leads" from which, man , from the first, was to
+>dig out his destiny.
+>In the beginning, the mine was unopened, and the miner stood
+><em>naked</em>, and <em>knowledgeless</em>, upon it
 
 ***Page 178/179***
 
+>The first principle of grand strategy is that one must understand what is going on in the world.  The question "What's happening?" is more than a cheerful greeting.  Policies and decisions will from such an assessment, and confrontations may emerge from differing views about what is taking place and why.  Yet those who are living through great historical events can rarely even glimpse the significance of what is going on all around them.
 >
-The first principle of grand strategy is that one must understand what is going on in the world.  The question "What's happening?" is more than a cheerful greeting.  Policies and decisions will from such an assessment, and confrontations may emerge from differing views about what is taking place and why.  Yet those who are living through great historical events can rarely even glimpse the significance of what is going on all around them.
-....
-The turbulence in which Dickens's characters are immersed permits them only a hazy sense of what is happening.  They are in the midst of a "revolution," but its meaning is not clear.  None of the major real-life figures of the revolution - Marat or Robespierre- figures in this story; only the central events of the fall of the Bastille and the rise of the Terror frame the Tale.  But Dickens leads the reader through stages of increasing clarity about its meaning.  
-
+>....
+>
+>The turbulence in which Dickens's characters are immersed permits them only a hazy sense of what is happening.  They are in the midst of a "revolution," but its meaning is not clear.  None of the major real-life figures of the revolution - Marat or Robespierre- figures in this story; only the central events of the fall of the Bastille and the rise of the Terror frame the Tale.  But Dickens leads the reader through stages of increasing clarity about its meaning.  
 
 ***Page 183***
 
 >Cromwell had led a revolution in the cause of religion; Robespierre feared the REvolution might "de-Christianize" France and thus alienate the religious peasantry.  This then might fuel counterrevolution by shifting support to the nobility. To avoid this, Robespierre, inspired by Rousseau, proposed a deistic new civic religion, a cult of "The Supreme Being," in a clever move to co-opt religion's mystery and charisma for the Revolution.
-
-Robespierre immediately grasped the first principle of revolutionary oratory: be always ready to speak anywhere, at any time.  In the Constituent Assembly alone he spoke 68 times in 1789, 125 times in 1790, and 328 times in 1791.  He addressed the Jacobin Club innumerable times, demonstrating great persistence and zeal.  The secret of his legitimacy and influence lay in his improbable presence at the podium.  he was not a rabble-rouser; he did not harangue his hearers.  As described in 1794: "When he mounts the rostrum, it is not with a studied indifference or exaggerated gravity, nor does he rush at it like Marat; but he is calm, as though he wished to show from the outset that this is the place which without challenge , is his by right.
-
+>
+>Robespierre immediately grasped the first principle of revolutionary oratory: be always ready to speak anywhere, at any time.  In the Constituent Assembly alone he spoke 68 times in 1789, 125 times in 1790, and 328 times in 1791.  He addressed the Jacobin Club innumerable times, demonstrating great persistence and zeal.  The secret of his legitimacy and influence lay in his improbable presence at the podium.  he was not a rabble-rouser; he did not harangue his hearers.  As described in 1794: "When he mounts the rostrum, it is not with a studied indifference or exaggerated gravity, nor does he rush at it like Marat; but he is calm, as though he wished to show from the outset that this is the place which without challenge , is his by right.
 
 ***Page 184/185***
 
->Speaking on behalf of the Committee of Public Safety on 17 Pluviose, Year II (February 5, 1794), Robespierre gave a speech revealingly entitle "On the Principles of Moral Policy That Ought to Guide the ational Convention in the Internal Administration of the REpublic." "In orderto lay the foundations of democracy and to consolidate it, " he says, 
-
-
->in order to arrive at the peaceful reign of constitutional law, we must finish the war of liberty against tyranny and safely cross through the storms of the revolution. ... Now, what is the fundamental principle of popular or democratic government, that is to say, the essential mainspring which sustains it and makes it move? It is virtue.  I speak of public virtue which worked so many wonders in Greece and Rome and which ought to produce even more astonishing things in republican France - that virtue which is nothing other than the love of the nation and its laws.  
-
-Robespierre declares the French to be "the first people of the world who have established real democracy." The soul of their creation is virtue.  Then comes the clang of logic being turned upside down.
+>Speaking on behalf of the Committee of Public Safety on 17 Pluviose, Year II (February 5, 1794), Robespierre gave a speech revealingly entitle "On the Principles of Moral Policy That Ought to Guide the ational Convention in the Internal Administration of the REpublic." "In orderto lay the foundations of democracy and to consolidate it, " he says, in order to arrive at the peaceful reign of constitutional law, we must finish the war of liberty against tyranny and safely cross through the storms of the revolution. ... Now, what is the fundamental principle of popular or democratic government, that is to say, the essential mainspring which sustains it and makes it move? It is virtue.  I speak of public virtue which worked so many wonders in Greece and Rome and which ought to produce even more astonishing things in republican France - that virtue which is nothing other than the love of the nation and its laws.  
+>
+>Robespierre declares the French to be "the first people of the world who have established real democracy." The soul of their creation is virtue.  Then comes the clang of logic being turned upside down.
 
 
 >If the mainspring of popular government in peacetime is virtue, amid revolution it is at the same time both virtue and <em>terror</em>. Virtue, without which terror is fatal; terror, without which virtue is impotent. Terror is nothing but prompt, seve, inflexible justice; it is therefore an emanation of justice.... Subdue liberty's enemies by terror, and you will be right, as Founders of the Republic.  The government of the revolution is despotism of liberty against tyranny.  Is force made only to protect crime? And is it not to strike the heads of the proud that lightning is destined?
-
-Robespierre makes ever error Thucydides said had occurred in Athens: direct democracy (which Robespierre never ceased to defend); disordered upheavals so great that "words lose their meaning"  and <em>terror</em> is held to mean virtue.  His oratory foreshadows the brutal ideologies of the twentieth century:  the interminable speeches; allegations of conspiracy that foment a pernicious atmosphere of mistrust; demagogues claiming to be the "guardians of the people's rights"; and most telling of all, advocacy of "the Terror." 
-
-...
-
-As he said to the Jacobin Club: "It is not up to me to indicate the measures, not I who am consumed by a slow fever and above all by the fever of patriotism.  I have said that at this moment I have no further duties." 
-
-In response to a speech that promised even more terror, a coalition arose in the convention to arrest Robespierre on July 27, 1794.  His jaw shattered by a pistol shot, he was unable to deploy his rhetoric in his own defense  He was guillotined the next morning.
-
-
+>
+>Robespierre makes ever error Thucydides said had occurred in Athens: direct democracy (which Robespierre never ceased to defend); disordered upheavals so great that "words lose their meaning"  and <em>terror</em> is held to mean virtue.  His oratory foreshadows the brutal ideologies of the twentieth century:  the interminable speeches; allegations of conspiracy that foment a pernicious atmosphere of mistrust; demagogues claiming to be the "guardians of the people's rights"; and most telling of all, advocacy of "the Terror." 
+>
+>...
+>
+>As he said to the Jacobin Club: "It is not up to me to indicate the measures, not I who am consumed by a slow fever and above all by the fever of patriotism.  I have said that at this moment I have no further duties." 
+>
+>In response to a speech that promised even more terror, a coalition arose in the convention to arrest Robespierre on July 27, 1794.  His jaw shattered by a pistol shot, he was unable to deploy his rhetoric in his own defense  He was guillotined the next morning.
 
 ***Page 193/194***
 
 >Stavrogin is  like the great Legislator of Rousseau's <em>Social Contract</em>. He has no official role or responsibility.  He is nowhere and everywhere.  He is Stalin, Mao, and Osama bin Laden.  All are drawn to him, only to be turned to destructive and ultimately self-destructive purposes.  The void of his personality is filled not by his own design but by the hopes and fears that others project onto him. He dominates, yet does nothing beyond suggesting, mocking, and conveying fear.  He is, Thomas Mann wrote, "that icy and contemptible, masterful person before whom weaker creatures grovel in the dust, probably one of the most vividly attractive characters in world literature." He is the spirit of negation, the vacuum left by free will when the people have become exhausted of using it.
-
-Stavrogin initiates the core plot of the revolutionary cell.  Laughing as he does so, he tells Pyotr Stepanovich what forces make up such a circle:  "Get four members of a circle to bump off a fifth on the pretense of his being an informer, and with this shed blood you'll immediately tie them together in a single knot.  They'll become your slaves, they won't dare rebel or call you to account. Ha, ha, ha!"
-
-The revolutionary cell gets the message, both strategically and tactically. "What I propose is ... earthly paradise," Shigalyov says. "Instead of paradise, "Lyamshin shouts, "I'd take these nine-tenths of mankind, since there's really nothing to do about them, and blow them sky-high." Soon the talk turns to "radically lopping off" a hundred million heads.  As Lenin would later say, "It does not matter if three-fourths of mankind is destroyed; all that counts is that the laster quater become Communist." 
-
+>
+>Stavrogin initiates the core plot of the revolutionary cell.  Laughing as he does so, he tells Pyotr Stepanovich what forces make up such a circle:  "Get four members of a circle to bump off a fifth on the pretense of his being an informer, and with this shed blood you'll immediately tie them together in a single knot.  They'll become your slaves, they won't dare rebel or call you to account. Ha, ha, ha!"
+>
+>The revolutionary cell gets the message, both strategically and tactically. "What I propose is ... earthly paradise," Shigalyov says. "Instead of paradise, "Lyamshin shouts, "I'd take these nine-tenths of mankind, since there's really nothing to do about them, and blow them sky-high." Soon the talk turns to "radically lopping off" a hundred million heads.  As Lenin would later say, "It does not matter if three-fourths of mankind is destroyed; all that counts is that the laster quater become Communist." 
 
 ***Page 196/197/198***
 
 >Verloc is a "revolutionary," active in radical societies.  He poses as an anarchist but is really an agent-provocateur in the pay of the Russian embassy in London.   Called one morning, most unusually, to the chancery, Verloc is berated by Vladimir, the first secretary of the embassy.  Verloc has failed to produce the act of incomprehensible violence on British life that would cause the authorities to crack down on real anarchists and, at the same time, pass repressive legislation that would undermine the British people's faith and confidence in the legal system and legality itself.
-
-The rhetoric of Vladimir's orders to Verloc reveals a theme of the novel as a whole: the ease with which the deadly enemies of civilized world order can use its values against itself.  Vladimir uses the language of capitalism to pressure Verloc to act against the capitalist system: "I tell you plainly that you will have to earn your money. . . . No work, no pay. . . . When you cease to be useful you shall cease to be employed.
-
-Similarly, the cultivated, liberal elite of society can be counted on to rhapsodize and subsidize the very revolutionaries who aim to eradicate them.  And the police, the keepers of order and justice, are often so smug and obtuse that their efforts at counterterrorism only make the situation worse.  In this sense, <em>The Secret Agent</em> can be read as a satire on civilized society.  In the final pages, however, it shows us the unspeakable, unfathomable delusions of a death cultist, and his lust for obliterating himself and as many others as possible.  Only then can the reader see the horrifying seriousness beneath the satire.
-
-Vladimir analyzes for the dumbstruck Verloc exactly the kind of brilliant stroke that is needed.  He presents "the philosophy of bomb throwing," the goal being "to make a clean sweep of social creation."  Assassinations are no longer sensational; a murderous assault on a theater is a used-up idea; a bomb in the National Gallery would not be serious enough.  What is needed is "an act of destructive ferocity so absurd as to be incomprehensible, inexplicable. . . . The attack must have all the shocking senselessness of gratuitous blasphemy." The target, Vladimir says, should be the Greenwich Observatory, a monument to science, to world civilization, the marker of the first meridian, the standard for universal time, an icon of which the whole civilized world has heard.
-
-...
-
-Which such labeling, the characters seem less substantial, more preposterous.  The novel begins to suggest that terrorism is a farce, something that society just has to - and can - live with.  Only the retarded Stevie posses the ability to carry out the kind of attack the revolutionaries fantasize about.
-
-
+>
+>The rhetoric of Vladimir's orders to Verloc reveals a theme of the novel as a whole: the ease with which the deadly enemies of civilized world order can use its values against itself.  Vladimir uses the language of capitalism to pressure Verloc to act against the capitalist system: "I tell you plainly that you will have to earn your money. . . . No work, no pay. . . . When you cease to be useful you shall cease to be employed.
+>
+>Similarly, the cultivated, liberal elite of society can be counted on to rhapsodize and subsidize the very revolutionaries who aim to eradicate them.  And the police, the keepers of order and justice, are often so smug and obtuse that their efforts at counterterrorism only make the situation worse.  In this sense, <em>The Secret Agent</em> can be read as a satire on civilized society.  In the final pages, however, it shows us the unspeakable, unfathomable delusions of a death cultist, and his lust for obliterating himself and as many others as possible.  Only then can the reader see the horrifying seriousness beneath the satire.
+>
+>Vladimir analyzes for the dumbstruck Verloc exactly the kind of brilliant stroke that is needed.  He presents "the philosophy of bomb throwing," the goal being "to make a clean sweep of social creation."  Assassinations are no longer sensational; a murderous assault on a theater is a used-up idea; a bomb in the National Gallery would not be serious enough.  What is needed is "an act of destructive ferocity so absurd as to be incomprehensible, inexplicable. . . . The attack must have all the shocking senselessness of gratuitous blasphemy." The target, Vladimir says, should be the Greenwich Observatory, a monument to science, to world civilization, the marker of the first meridian, the standard for universal time, an icon of which the whole civilized world has heard.
+>
+>...
+>
+>Which such labeling, the characters seem less substantial, more preposterous.  The novel begins to suggest that terrorism is a farce, something that society just has to - and can - live with.  Only the retarded Stevie posses the ability to carry out the kind of attack the revolutionaries fantasize about.
 
 ***Page 206/209***
 
 >... Thucydides' Peloponnesian War, locates the source of what goes wrong in the dehumanization of a society, in particular when language becomes debased, at those moments of unhinged crisis "when words lose their meaning." Lara says, "The main misfortune, the root of all evil to come was the loss of confidence in the value of one's own opinion.  People imagined that it was out of date to follow their own moral sense." Falsity in language is a clue to something deeper, to a rot in the heart of the regime.  Yury is unnerved and incapacitated by the verbiage spewed out by the regime, the gargantuan rhetoric made with an eye to obliterating the individual in all his uniqueness, to mold people into a type of being eager to bow down before cliches such as "sacrifice for the future" or "to build for tomorrow.
-
-....
-
-From its outset, the Soviet Union, as Sinyavsky recognized, sought to eliminate the very vocabulary connected with the concept of "the state." A linguistic revolution would be required to effectuage the political revolution. The title of "Minister" was replaced by "People's Commissar." "Gvernment" became "The Dicatatorship of the Proletariat." Governance itself was conducted by slogans: "all power to the Soviets!" except that the Soviets did not excercise power.  "The Soviet people unanimously support the resolutions of the Twenty-Fifth Party Congress!" when no one had any idea what had been resolved, if anything, at the party congresss.  All this is captured in George Orwell's <em>Animal Farm</em> (1945), a satiric fable of the Soviet Union in which pigs and horses and other creatures in the barnyard revolt against a human farmer and are enslaved when their language is systematically distorted until: "All animals are equal, but some animals are more equal than others."
-
+>
+>...
+>
+>From its outset, the Soviet Union, as Sinyavsky recognized, sought to eliminate the very vocabulary connected with the concept of "the state." A linguistic revolution would be required to effectuage the political revolution. The title of "Minister" was replaced by "People's Commissar." "Gvernment" became "The Dicatatorship of the Proletariat." Governance itself was conducted by slogans: "all power to the Soviets!" except that the Soviets did not excercise power.  "The Soviet people unanimously support the resolutions of the Twenty-Fifth Party Congress!" when no one had any idea what had been resolved, if anything, at the party congresss.  All this is captured in George Orwell's <em>Animal Farm</em> (1945), a satiric fable of the Soviet Union in which pigs and horses and other creatures in the barnyard revolt against a human farmer and are enslaved when their language is systematically distorted until: "All animals are equal, but some animals are more equal than others."
 
 ***Page 211***
 
@@ -382,33 +361,31 @@ From its outset, the Soviet Union, as Sinyavsky recognized, sought to eliminate 
 ***Page 219***
 
 >Saint-Loup perceives that the balance-of-power concept, one thought to be the best guarantor of stability, was a cause of the war, and that the international conference system that maintained the balance of power was defunct.  "The age of the Congress of Vienna is dead and gone; the old secret diplomacy must be replaced by concrete diplomacy."
-
-The rise of an alternative international system wa felt.  Charlus deliers a long soliloquy declaring that "any day now I expect to see myself placed at table beneath a Russian revolutionary, " apparently in the belief that the greatest  danger presented by the Bolsheviks lies in the protocol of being seated at the table.  "So turns the  wheel of the world, " he concludes.
-
-<em>Time Regained</em> shows how " the abstract" triumphs in private, professional, national, and international life.  The First World War, "far from being the last of the national conflicts, is the first of the great abstract conflicts of the twentieth century."
+>
+>The rise of an alternative international system wa felt.  Charlus deliers a long soliloquy declaring that "any day now I expect to see myself placed at table beneath a Russian revolutionary, " apparently in the belief that the greatest  danger presented by the Bolsheviks lies in the protocol of being seated at the table.  "So turns the  wheel of the world, " he concludes.
+>
+><em>Time Regained</em> shows how " the abstract" triumphs in private, professional, national, and international life.  The First World War, "far from being the last of the national conflicts, is the first of the great abstract conflicts of the twentieth century."
 
 
 ***Page 221/222/223***
 
+>On January 8, 1918, without previous notice,  a courier arrived on Capitol Hill to convey the president's intention to appear that day before both houses of Congress to deliver an important message.  This was "The Fourteen Points," the most influential document  in American diplomatic history.  It was Wilson's analysis of the fundamental causes of modern war in general and European war in particular.  And it listed specific changes necessary for peace, with a sweeping elaboration of principles for the government of relations among nations.
 >
-On January 8, 1918, without previous notice,  a courier arrived on Capitol Hill to convey the president's intention to appear that day before both houses of Congress to deliver an important message.  This was "The Fourteen Points," the most influential document  in American diplomatic history.  It was Wilson's analysis of the fundamental causes of modern war in general and European war in particular.  And it listed specific changes necessary for peace, with a sweeping elaboration of principles for the government of relations among nations.
-
-Too the average reader today, the Fourteen Points are tedious and obscure.  But the document bears close study as a rhetorical masterwork, in that its most specifically detailed provisions silently represented large principles.  The memorandum of recommendations sent to Wilson states: "Every act of Germany towards Alsace-Lorraine for half a century has proclaimed that the provinces are foreign territory, and no genuine part of the German Empire.  Germany cannot be permitted to escape the stern logic of her own conduct.  The wrong done in 1871 must be undone."
-
-...
-
-The Fourteen Points emerge as a very Kantian document, not only in their prescription for an end to secret treaties and commitment to international trade, but in their far-reaching reconstitution of the international state system.  Richelieu's seventeenth-century balance-of-power concept had become the guide for great power diplomacy from the Congress of Vienna's settlement of the Napoleonic Wars in 1814 to outbreak of war in 1914.  But the concept accepted, even required, war as the way to redress the balance, again and again.  To replace, or reconceptualize, balance of power, the idea of "collective security" was proposed.
-
-...
-
-The conflict that broke out in 1914 was regarded in retrospect as virtually inevitable because of an "arms race" among rival regiems - most prominently Germany and Great Britain - fueled by arms merchants and corporate makers of munitions.  There would be have to be serious international efforts at "arms control" (Point IV).
-
-A fundamental source of the confrontations that led to the Great War, indeed the the proximate cause, was thought to be suppression of self-determination.  The restive south Slavic peoples, chafing under the Austro-Hungarian Empire, sparked the war when a Serbian nationalist assassin struck down the Archduke Ferdinand in August 1914.  Only an acceptance of self-determination, that is, <em>the acceptance of new states into legitimate membership in the international state system</em>, could hope to contain this source of war (Points V and X).
-
-...
-
-"The Stimson Doctrine" could not summon a collective military response to Japanese or German aggression, but it did provide a focus for world public opinion and an international commitment that the depredations of Imperial Japan and the Third Reich would never be accepted as legally valid.
-
+>Too the average reader today, the Fourteen Points are tedious and obscure.  But the document bears close study as a rhetorical masterwork, in that its most specifically detailed provisions silently represented large principles.  The memorandum of recommendations sent to Wilson states: "Every act of Germany towards Alsace-Lorraine for half a century has proclaimed that the provinces are foreign territory, and no genuine part of the German Empire.  Germany cannot be permitted to escape the stern logic of her own conduct.  The wrong done in 1871 must be undone."
+>
+>...
+>
+>The Fourteen Points emerge as a very Kantian document, not only in their prescription for an end to secret treaties and commitment to international trade, but in their far-reaching reconstitution of the international state system.  Richelieu's seventeenth-century balance-of-power concept had become the guide for great power diplomacy from the Congress of Vienna's settlement of the Napoleonic Wars in 1814 to outbreak of war in 1914.  But the concept accepted, even required, war as the way to redress the balance, again and again.  To replace, or reconceptualize, balance of power, the idea of "collective security" was proposed.
+>
+>...
+>
+>The conflict that broke out in 1914 was regarded in retrospect as virtually inevitable because of an "arms race" among rival regiems - most prominently Germany and Great Britain - fueled by arms merchants and corporate makers of munitions.  There would be have to be serious international efforts at "arms control" (Point IV).
+>
+>A fundamental source of the confrontations that led to the Great War, indeed the the proximate cause, was thought to be suppression of self-determination.  The restive south Slavic peoples, chafing under the Austro-Hungarian Empire, sparked the war when a Serbian nationalist assassin struck down the Archduke Ferdinand in August 1914.  Only an acceptance of self-determination, that is, <em>the acceptance of new states into legitimate membership in the international state system</em>, could hope to contain this source of war (Points V and X).
+>
+>...
+>
+>"The Stimson Doctrine" could not summon a collective military response to Japanese or German aggression, but it did provide a focus for world public opinion and an international commitment that the depredations of Imperial Japan and the Third Reich would never be accepted as legally valid.
 
 ***Page 223/226/227***
 
