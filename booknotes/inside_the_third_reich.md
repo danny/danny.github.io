@@ -75,32 +75,32 @@ This book provides some remarkable insights into world war 2.  It's also interes
 ***Page 290***
 
 >Goering was embarking for Rominten Heath on his special train when Galland came along to bid him good-by.  "What's the idea of telling the Fuehrer that American fighters have penetrated into the territory of the Reich?" Goering snapped at him.
-
-"<em>Herr rechsmarschall,</em>" Galland replied with imperturbable calm, "they soon will be flying even deeper."
-
-Goering Spoke even more vehemently: "That's nonsense, Galland, what gives you such fantasies? That's pure bluff!"
-
-Galland shook his head.  "Those are the facts, <em>Herr Reichsmarschall!</em>"  As he spoke he deliberately remained in a casual posture, his cap somewhat askew, a long cigar clamped between his teeth.  "American fighters have been shot down over Aachen.  There is no doubt about it!
-
-Goering obstinately held his ground: "That is simply not true, Galland.  It's impossible."
-
-Galland reacted with a touch of mockery: "You might go and check it yourself, sir; the downed planes are there at Aachen. "
-
-Goering tried to smooth matters over: "Come now, Galland, let me tell you something.  I'm an experienced fighter pilot myself.  I know what is possible.  But I know what isn't, too.  Admit you made a mistake."
-
-Galland only shook his head, until Goering finally declared: " What must have happened is that they were shot down much farther to the west.  I mean, if they were very high when they were shot down they could have glided quite a distance farther before they crashed."
-
-Not a muscle moved in Galland's face.  "Glided to the east, sir? If my plane were shot up ..."
-
-"Now then, Herr Galland," Goering fulminated, trying to put an end to the debate, "I officially assert that the American fighter planes did not reach Aachen."
-
-The General ventured a last statement: "But, sir, they were there!"
-
-At this point Goering's self-control gave way. "I herewith give you an official order that they weren't there! Do you understand?  The American fighters were not there! Get that! I intend to report that to the Fuehrer. "
-
-Goering simply let General Galland stand there.  But as he stalked off he turned once more and called out threateningly: "You have my official order!"
-
-With an unforgettable smile the General replied: "Orders are orders, sir!"
+>
+>"<em>Herr rechsmarschall,</em>" Galland replied with imperturbable calm, "they soon will be flying even deeper."
+>
+>Goering Spoke even more vehemently: "That's nonsense, Galland, what gives you such fantasies? That's pure bluff!"
+>
+>Galland shook his head.  "Those are the facts, <em>Herr Reichsmarschall!</em>"  As he spoke he deliberately remained in a casual posture, his cap somewhat askew, a long cigar clamped between his teeth.  "American fighters have been shot down over Aachen.  There is no doubt about it!
+>
+>Goering obstinately held his ground: "That is simply not true, Galland.  It's impossible."
+>
+>Galland reacted with a touch of mockery: "You might go and check it yourself, sir; the downed planes are there at Aachen. "
+>
+>Goering tried to smooth matters over: "Come now, Galland, let me tell you something.  I'm an experienced fighter pilot myself.  I know what is possible.  But I know what isn't, too.  Admit you made a mistake."
+>
+>Galland only shook his head, until Goering finally declared: " What must have happened is that they were shot down much farther to the west.  I mean, if they were very high when they were shot down they could have glided quite a distance farther before they crashed."
+>
+>Not a muscle moved in Galland's face.  "Glided to the east, sir? If my plane were shot up ..."
+>
+>"Now then, Herr Galland," Goering fulminated, trying to put an end to the debate, "I officially assert that the American fighter planes did not reach Aachen."
+>
+>The General ventured a last statement: "But, sir, they were there!"
+>
+>At this point Goering's self-control gave way. "I herewith give you an official order that they weren't there! Do you understand?  The American fighters were not there! Get that! I intend to report that to the Fuehrer. "
+>
+>Goering simply let General Galland stand there.  But as he stalked off he turned once more and called out threateningly: "You have my official order!"
+>
+>With an unforgettable smile the General replied: "Orders are orders, sir!"
 
 ***Page 291***
 
