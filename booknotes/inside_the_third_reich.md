@@ -121,16 +121,16 @@ With an unforgettable smile the General replied: "Orders are orders, sir!"
 ***Page 375***
 
 >I realize that the sight of suffering people influenced only my emotions, but not my conduct.  On the plane of feelings only sentimentality emerged; in the realm of decisions, on the other hand, I continued to be ruled by the principles of utility. In the nuremberg Trial the indictment against me was based on the use of prisoners in the armaments factories.
-
-...
-
-For in either case I was moving within the system.  What disturbs me more is that I failed to read the physiognomy of the regime mirrored in the faces of those prisoners - the regime whose existence I was so obsessively trying to prolong during those weeks and months.  I did not see any moral ground outside the system where I should have taken my stand.  And sometimes I ask myself who this young man really was, this young man who has now become so alien to me, who walked through the workshops of the Linz steelworks or descended into the caverns of the Central Works twenty-five years ago.
+>
+>...
+>
+>For in either case I was moving within the system.  What disturbs me more is that I failed to read the physiognomy of the regime mirrored in the faces of those prisoners - the regime whose existence I was so obsessively trying to prolong during those weeks and months.  I did not see any moral ground outside the system where I should have taken my stand.  And sometimes I ask myself who this young man really was, this young man who has now become so alien to me, who walked through the workshops of the Linz steelworks or descended into the caverns of the Central Works twenty-five years ago.
 
 ***Page 375/376***
 
 >This time, sitting in the green leather easy chair in my office, he seemed confused and spoke falteringly, with man breaks.  He advised me never to accept an invitation to inspect a concentration campe in Upper Silesia.  Never, under any circumstances.  He had seen something there which he was not permitted to describe and moreover could not describe.
-
-I did not query him, I did not query Himmler, I did not query Hitler, I did not speak with personal friends.  I did not investigate - for I did not want to know what was happening there.  Hanke must have been speaking of Auschwitz.  During those few seconds, while Hanke was warning me, the whole responsibility had become a reality again.  Those seconds were uppermost in my mind when I stated to the international court at the Nuremberg Trial that as an important member of the leadership of the Reich, I had to share the total responsibility for all that had happened.  For from that moment on, I was inescapably contaminated morally; from fear of discovering something which might have made me turn from my course, I had closed my eyes. This deliberate blindness outweighs whatever good I may have done or tried to do in the last period of the war.  Those activities shrink to nothing in the face of it.  Because I failed at that time, I still feel, to this day, responsible for Auschwitz in a wholly personal sense.
+>
+>I did not query him, I did not query Himmler, I did not query Hitler, I did not speak with personal friends.  I did not investigate - for I did not want to know what was happening there.  Hanke must have been speaking of Auschwitz.  During those few seconds, while Hanke was warning me, the whole responsibility had become a reality again.  Those seconds were uppermost in my mind when I stated to the international court at the Nuremberg Trial that as an important member of the leadership of the Reich, I had to share the total responsibility for all that had happened.  For from that moment on, I was inescapably contaminated morally; from fear of discovering something which might have made me turn from my course, I had closed my eyes. This deliberate blindness outweighs whatever good I may have done or tried to do in the last period of the war.  Those activities shrink to nothing in the face of it.  Because I failed at that time, I still feel, to this day, responsible for Auschwitz in a wholly personal sense.
 
 ***Page 411***
 
@@ -143,18 +143,17 @@ I did not query him, I did not query Himmler, I did not query Hitler, I did not 
 ***Page 489***
 
 >Two weeks later, staggered by the revelations of the crimes in the concentration camps, I wrote to the chairman of the ministerial cabinet, Schwerin-Krosigk: "The previous leadership of the German nation bears a collective guilt for the fate that now hangs over the German people.  Each member of that leadership must personally assume his responsibility in such a way that the guilt which might otherwise descend upon the German people is expiated. "
-
-With that, there began a segment of my life which has not ended to this day.
+>
+>With that, there began a segment of my life which has not ended to this day.
 
 ***Page 500***
 
 >... General Anderson paid me the most curious and flattering compliment of my career: "Had I known what this man was achieving, I would have sent out the entire American Eighth Air Force merely to  put him underground." That air force had at its disposal more than two thousand heavy daylight bombers.  It was luck General Anderson found out too late.
-
-...
-
-Early in the morning two days later my adjutant came rushing into my bedroom.  The British had surrounded Glucksburg.  A sergeant entered my room and announced that I was prisoner.  He unbuckled his belt with its pistol, laid it casually on my table, and left the room to give me an opportunity to pack my things.
-
-...
+>
+>...
+>
+>Early in the morning two days later my adjutant came rushing into my bedroom.  The British had surrounded Glucksburg.  A sergeant entered my room and announced that I was prisoner.  He unbuckled his belt with its pistol, laid it casually on my table, and left the room to give me an opportunity to pack my things.
+>...
 
 ***Page 520/521***
 
@@ -167,5 +166,5 @@ Early in the morning two days later my adjutant came rushing into my bedroom.  T
 ***Page 524***
 
 >"The catastrophe of this war," I wrote in my cell in 1947, "has proved the sensitivity of the system of modern civilization evolved in the course of centuries.  Now we know that we do not live in an earthquake-proof structure.  The build-up of negative impulses, each reinforcing the other, can inexorably shake to pieces the complicated apparatus of the modern world.  There is no halting this process by will alone.  The danger is that the automatism of progress will depersonalize man further and withdraw more and moe of his self-responsibility."
-
-Dazzled by the possibilities of technology, I devoted crucial years of my life to serving it.  But in the end my feelings about it are highly skeptical.]]&gt;</content:encoded>
+>
+>Dazzled by the possibilities of technology, I devoted crucial years of my life to serving it.  But in the end my feelings about it are highly skeptical.]]&gt;</content:encoded>
