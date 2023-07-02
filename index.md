@@ -11,6 +11,7 @@ This page contains a list of notes/excerpts from various books that I found inte
   - [{{ page.title }}]({{ page.url }})
  {% endif %}
 {% endfor %}
+
 {% endcomment %}
 
 
