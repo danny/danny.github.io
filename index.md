@@ -14,6 +14,11 @@ This page contains a list of notes/excerpts from various books that I found inte
  {% endif %}
 {% endfor %}
 
+
+{% for page in site.pages %}
+  {{ page | inspect }}
+{% endfor %}
+
 {% endcomment %}
 
 
